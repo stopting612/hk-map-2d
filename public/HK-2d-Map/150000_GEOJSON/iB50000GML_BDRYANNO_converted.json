@@ -1,0 +1,796 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "BDRYANNO",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:2326"
+		}
+	},
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 812637.9815999996, 820054.7887999993 ]
+			},
+			"properties" : {
+				"CLASS" : "ENC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CLA",
+				"ANNOSYMID" : 21124131,
+				"Angle" : 74.2183496519302,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "禁區界線",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821952.9729000004, 839821.6995000001 ]
+			},
+			"properties" : {
+				"CLASS" : "ENC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "FRONTI",
+				"TYPE" : "CLA",
+				"ANNOSYMID" : 2231915,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 1,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.97000000067055,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Frontier Closed Area Boundary",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 826423.6320000002, 833183.2467 ]
+			},
+			"properties" : {
+				"CLASS" : "ENC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "MCA",
+				"ANNOSYMID" : 2232227,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Barracks",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 826565.5470000003, 838692.0000999998 ]
+			},
+			"properties" : {
+				"CLASS" : "ENC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "MCA",
+				"ANNOSYMID" : 2232230,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "軍營",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828771.9872000003, 842138.1254999992 ]
+			},
+			"properties" : {
+				"CLASS" : "ENC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "FRB",
+				"ANNOSYMID" : 2230780,
+				"Angle" : 21.0938668297604,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "練靶場界線",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842273.6739999996, 843891.8816 ]
+			},
+			"properties" : {
+				"CLASS" : "ENC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "FRONTI",
+				"TYPE" : "CLA",
+				"ANNOSYMID" : 21070506,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "邊境禁區界線",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 811398.7695000004, 826370.0620000008 ]
+			},
+			"properties" : {
+				"CLASS" : "ENC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "FRB",
+				"ANNOSYMID" : 2232854,
+				"Angle" : -10.6087441788148,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "練靶場界線",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 814796.1325000003, 836008.9118000008 ]
+			},
+			"properties" : {
+				"CLASS" : "ENC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CLA",
+				"ANNOSYMID" : 21124129,
+				"Angle" : -62.1512748461483,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "禁區界線",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829419.1827999996, 817366.8465 ]
+			},
+			"properties" : {
+				"CLASS" : "ENF",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "HBL",
+				"ANNOSYMID" : 2232220,
+				"Angle" : -84.8937582939748,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.96000000089407,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Harbour  Limit",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833704.4529999997, 841190.5041000005 ]
+			},
+			"properties" : {
+				"CLASS" : "ENC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "MCA",
+				"ANNOSYMID" : 2232228,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "軍營",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 806551.2925000004, 816133.8838 ]
+			},
+			"properties" : {
+				"CLASS" : "ENC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CLA",
+				"ANNOSYMID" : 21124132,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 1,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Closed Area Boundary",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 814614.7972999997, 835851.9269999992 ]
+			},
+			"properties" : {
+				"CLASS" : "ENC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CLA",
+				"ANNOSYMID" : 21124128,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 1,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.97000000067055,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Closed Area Boundary",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821659.3778999997, 839927.2072000001 ]
+			},
+			"properties" : {
+				"CLASS" : "ENC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "FRONTI",
+				"TYPE" : "CLA",
+				"ANNOSYMID" : 2227779,
+				"Angle" : 29.0974547886103,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "邊境禁區界線",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 825069.7199999997, 837801.2340999991 ]
+			},
+			"properties" : {
+				"CLASS" : "ENC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "MCA",
+				"ANNOSYMID" : 2232232,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "軍營",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 825082.7630000003, 837677.9417000003 ]
+			},
+			"properties" : {
+				"CLASS" : "ENC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "MCA",
+				"ANNOSYMID" : 2232233,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Barracks",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829337.6275000004, 818303.6621000003 ]
+			},
+			"properties" : {
+				"CLASS" : "ENF",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "HBL",
+				"ANNOSYMID" : 2232221,
+				"Angle" : -85.267761830755,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "海港界線",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828939.9398999996, 831881.7603999991 ]
+			},
+			"properties" : {
+				"CLASS" : "ENC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "MCA",
+				"ANNOSYMID" : 2232224,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.19999999925494,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "石崗村",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833990.9707000004, 825187.4679000005 ]
+			},
+			"properties" : {
+				"CLASS" : "ENC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "FRB",
+				"ANNOSYMID" : 21192641,
+				"Angle" : -0.183345877331409,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "練靶場\n界線",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833717.4950000001, 841067.1007000003 ]
+			},
+			"properties" : {
+				"CLASS" : "ENC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "MCA",
+				"ANNOSYMID" : 2232229,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Barracks",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 826578.5920000002, 838568.7727000006 ]
+			},
+			"properties" : {
+				"CLASS" : "ENC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "MCA",
+				"ANNOSYMID" : 2232231,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Barracks",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832551.4435999999, 841519.4962000009 ]
+			},
+			"properties" : {
+				"CLASS" : "ENC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "FRB",
+				"ANNOSYMID" : 2230781,
+				"Angle" : -42.3534698045152,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "練靶場界線",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833916.3937999997, 845655.8138999995 ]
+			},
+			"properties" : {
+				"CLASS" : "ENC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CLA",
+				"ANNOSYMID" : 21148160,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.28999999910593,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "禁區界線",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 806419.0675999997, 816334.8874999993 ]
+			},
+			"properties" : {
+				"CLASS" : "ENC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CLA",
+				"ANNOSYMID" : 21124133,
+				"Angle" : 36.9439716852455,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "禁區界線",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 813407.1222000001, 820407.5727999993 ]
+			},
+			"properties" : {
+				"CLASS" : "ENC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CLA",
+				"ANNOSYMID" : 21124130,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 1,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Closed Area Boundary",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 826410.5880000005, 833306.2940999996 ]
+			},
+			"properties" : {
+				"CLASS" : "ENC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "MCA",
+				"ANNOSYMID" : 2232226,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "軍營",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840092.7244999995, 846027.3347999994 ]
+			},
+			"properties" : {
+				"CLASS" : "ENC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "FRONTI",
+				"TYPE" : "CLA",
+				"ANNOSYMID" : 21070475,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.97000000067055,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Frontier Closed  Area  Boundary",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815234.3322999999, 833593.1329999994 ]
+			},
+			"properties" : {
+				"CLASS" : "ENC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "FRB",
+				"ANNOSYMID" : 2232855,
+				"Angle" : -42.28062602821,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.96000000089407,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Firing  Range  Boundary",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828938.6639999999, 831681.4232000001 ]
+			},
+			"properties" : {
+				"CLASS" : "ENC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "MCA",
+				"ANNOSYMID" : 2232225,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Shek  Kong\nVillage",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		}
+	]
+}

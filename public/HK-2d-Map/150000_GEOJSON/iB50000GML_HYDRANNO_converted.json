@@ -1,0 +1,1160 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "HYDRANNO",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:2326"
+		}
+	},
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 822615.159, 825291.0208999999 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231475,
+				"Angle" : -2.65953999825065,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 830058.2101999996, 826964.6603999995 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231478,
+				"Angle" : 18.5653968326744,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838105.5170999998, 812578.7349999994 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231487,
+				"Angle" : -26.5573641693414,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841919.9607999995, 814499.8620999996 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231465,
+				"Angle" : 42.5766141489029,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 805588.4149000002, 808919.3220000006 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231468,
+				"Angle" : 36.5501713298644,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 805931.6421999997, 811832.5435000006 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231471,
+				"Angle" : -41.6677985652324,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 813823.8568000002, 811392.8172999993 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231469,
+				"Angle" : -15.337027886399,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818323.3329999996, 816650.4857000001 ]
+			},
+			"properties" : {
+				"CLASS" : "EWB",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RES",
+				"ANNOSYMID" : 2227515,
+				"Angle" : 52.1697421212455,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "Reservoir",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818544.0472999997, 826869.0443999991 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231496,
+				"Angle" : 2.3382405771358,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 824839.2704999996, 829839.1396999992 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20241113,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231481,
+				"Angle" : 26.2703751710342,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828552.2193, 826818.1335000005 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231477,
+				"Angle" : 55.8125361423819,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828353.0610999996, 827760.7799999993 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231484,
+				"Angle" : -29.8749355851797,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831360.6336000003, 827247.9574999996 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231479,
+				"Angle" : -5.80807941177045,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842108.4402999999, 811793.5318 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2230782,
+				"Angle" : -60.4690272859704,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 826041.5384999998, 826024.8987000007 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231476,
+				"Angle" : 10.4975278700301,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842027.2427000003, 828616.8652999997 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2229337,
+				"Angle" : -59.3624764534754,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 806948.5959999999, 813493.8313999996 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231472,
+				"Angle" : 34.8962667513443,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 816719.4714000002, 826779.4121000003 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231473,
+				"Angle" : -35.5370116792529,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840130.9524999997, 826106.0600000005 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231466,
+				"Angle" : 32.5204093903277,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841892.9001000002, 837516.4506999999 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231485,
+				"Angle" : 39.3103704319092,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 843102.7348999996, 813591.5311999992 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231464,
+				"Angle" : 32.8319584578908,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 806173.2613000004, 813907.1074999999 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2232716,
+				"Angle" : 18.8190407280787,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 809702.8613999998, 809990.4837999996 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231494,
+				"Angle" : -5.52588455574131,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820907.5733000003, 824740.8464000002 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231474,
+				"Angle" : 37.0704319708458,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838768.0230999999, 810349.9689000007 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2230783,
+				"Angle" : 15.2842655699576,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840953.3309000004, 813148.9675999992 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231489,
+				"Angle" : -17.6141381489334,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 843154.6881999997, 812901.6352999993 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231463,
+				"Angle" : -39.611905841021,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 851839.4068, 830760.3421 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231492,
+				"Angle" : 61.7306778619237,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 811842.9796000002, 810586.3975000009 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231495,
+				"Angle" : 18.0055239041745,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818231.7396999998, 816729.1709000003 ]
+			},
+			"properties" : {
+				"CLASS" : "EWB",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RES",
+				"ANNOSYMID" : 2227514,
+				"Angle" : 52.1697421212455,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.57399999909103,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "水塘",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 827611.2130000005, 831083.7977000009 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231480,
+				"Angle" : 2.71677281673078,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828889.8485000003, 831432.1829000004 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231493,
+				"Angle" : 53.4864917328683,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834454.7812000001, 812995.6489000004 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231488,
+				"Angle" : 29.4847803539304,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835048.0060999999, 812480.3959999997 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2230784,
+				"Angle" : 11.7706260006866,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836852.9617999997, 824857.2773000002 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231483,
+				"Angle" : 34.9662043353592,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 851406.1602999996, 831950.0120999999 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231491,
+				"Angle" : -4.43342132827161,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 804061.3147999998, 808025.8030999992 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231467,
+				"Angle" : -41.2214972024863,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 805310.0027999999, 811307.7687999997 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231470,
+				"Angle" : 48.4297478172273,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 824324.0582999997, 830602.6375999991 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231482,
+				"Angle" : 44.3476965686205,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840385.7725999998, 810464.8078000005 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231486,
+				"Angle" : 26.9699254401497,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 847045.3729999997, 831219.6125000007 ]
+			},
+			"properties" : {
+				"CLASS" : "STC",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CAT",
+				"ANNOSYMID" : 2231490,
+				"Angle" : 38.1775002400598,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 1,
+				"Status" : 0,
+				"TextString" : "C",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		}
+	]
+}

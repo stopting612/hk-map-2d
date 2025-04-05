@@ -1,0 +1,3428 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "FACIANNO",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:2326"
+		}
+	},
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 804349.9519999996, 813351.3651000001 ]
+			},
+			"properties" : {
+				"CLASS" : "BGD",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CEM",
+				"ANNOSYMID" : 2232802,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "墳場",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 822820.6683999998, 815056.6631000005 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 21192884,
+				"Angle" : -69.3306320790001,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Pipeline",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 827509.7319999998, 822335.8947000001 ]
+			},
+			"properties" : {
+				"CLASS" : "GAS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "TNK",
+				"ANNOSYMID" : 2231439,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Oil  Depot",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828488.5083999997, 821083.3315999992 ]
+			},
+			"properties" : {
+				"CLASS" : "GAS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "TNK",
+				"ANNOSYMID" : 21084763,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Oil  Depot",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 830134.4967, 812715.7340999991 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 2227484,
+				"Angle" : 80.7006260461659,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Pipeline",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829554.0899999999, 837842.0305000003 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 2227487,
+				"Angle" : 77.1505312045038,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Pipeline",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833096.7224000003, 817509.4520999994 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 21117771,
+				"Angle" : 44.1531264020237,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "導管",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833612.5449999999, 812307.4187000003 ]
+			},
+			"properties" : {
+				"CLASS" : "BGD",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CEM",
+				"ANNOSYMID" : 2229201,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Cemetery",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835571.0199999996, 810654.6607000008 ]
+			},
+			"properties" : {
+				"CLASS" : "RSF",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "AMK",
+				"ANNOSYMID" : 2227466,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Ocean  Park",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836553.1440000003, 822574.3164000008 ]
+			},
+			"properties" : {
+				"CLASS" : "SCH",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "UGCFIT",
+				"TYPE" : "TEI",
+				"ANNOSYMID" : 2232406,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.19999999925494,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "香港浸會大學",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838109.8512000004, 836597.7369999997 ]
+			},
+			"properties" : {
+				"CLASS" : "SCH",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "UGCFIT",
+				"TYPE" : "TEI",
+				"ANNOSYMID" : 2229003,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 90,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "The Education University\nof Hong Kong",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838464.0140000004, 816455.0857999995 ]
+			},
+			"properties" : {
+				"CLASS" : "SCH",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "TEI",
+				"ANNOSYMID" : 2232423,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.19999999925494,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "香港\n樹仁大學",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838520.2927999999, 817501.8047000002 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 2227480,
+				"Angle" : -60.2252711898273,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Pipeline",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842794.0010000002, 813482.5197000001 ]
+			},
+			"properties" : {
+				"CLASS" : "BGD",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CEM",
+				"ANNOSYMID" : 2229250,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Cemetery",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 852808.6789999995, 826073.7752 ]
+			},
+			"properties" : {
+				"CLASS" : "AQU",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "YAC",
+				"ANNOSYMID" : 2227470,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 1,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "創興\n水上活動中心",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 819046.8273, 813774.4263000004 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 2227494,
+				"Angle" : 4.00234405750105,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Pipeline",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818725.8415000001, 816201.1682999991 ]
+			},
+			"properties" : {
+				"CLASS" : "RSF",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "GCO",
+				"ANNOSYMID" : 2232495,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "高爾夫球場",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820123.0157000003, 809524.0617999993 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 2227495,
+				"Angle" : -44.0032998925776,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "導管",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829876.3415999999, 839226.4141000006 ]
+			},
+			"properties" : {
+				"CLASS" : "RSF",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "GCO",
+				"ANNOSYMID" : 2232453,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Golf  Course",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 830654.4186000004, 811623.3938999996 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 2227486,
+				"Angle" : 51.9084238521034,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "導管",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 830472.3653999995, 832193.3936999999 ]
+			},
+			"properties" : {
+				"CLASS" : "RSF",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "ZOO",
+				"ANNOSYMID" : 2232858,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.28999999910593,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "嘉道理農場",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835912.5429999996, 822064.5874000005 ]
+			},
+			"properties" : {
+				"CLASS" : "SCH",
+				"LASTUPDATEDATE" : 20240520,
+				"SUBCAT" : "UGCFIT",
+				"TYPE" : "TEI",
+				"ANNOSYMID" : 2232392,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.19999999925494,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "香港城市大學",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836562.6799999997, 822398.9042000007 ]
+			},
+			"properties" : {
+				"CLASS" : "SCH",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "UGCFIT",
+				"TYPE" : "TEI",
+				"ANNOSYMID" : 2232407,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 90,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Hong Kong\nBaptist University",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839350.5750000002, 823295.9970999993 ]
+			},
+			"properties" : {
+				"CLASS" : "BGD",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CEM",
+				"ANNOSYMID" : 2229243,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "墳場",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840812.1299000001, 816924.3795999996 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 21117775,
+				"Angle" : 38.8862231510761,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "導管",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 843422.0789999999, 817274.6780999992 ]
+			},
+			"properties" : {
+				"CLASS" : "BGD",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CEM",
+				"ANNOSYMID" : 2230548,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "墳場",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 843434.3130000001, 817185.3397000004 ]
+			},
+			"properties" : {
+				"CLASS" : "BGD",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CEM",
+				"ANNOSYMID" : 2230549,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Cemetery",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 847681.7366000004, 841545.9364 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 2229706,
+				"Angle" : -74.5016525689292,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "導管",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 848778.3890000004, 814946.8840999994 ]
+			},
+			"properties" : {
+				"CLASS" : "RSF",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "GCO",
+				"ANNOSYMID" : 2232456,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "高爾夫球場",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 852852.3569999998, 825865.7032999992 ]
+			},
+			"properties" : {
+				"CLASS" : "AQU",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "YAC",
+				"ANNOSYMID" : 2227503,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Chong Hing\nWater Sports Centre",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 824343.6140000001, 824791.0675000008 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 2231437,
+				"Angle" : -63.4733851454106,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "導管",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 827141.9834000003, 822804.2774 ]
+			},
+			"properties" : {
+				"CLASS" : "GAS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "TNK",
+				"ANNOSYMID" : 21084767,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Oil  Depot",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828571.1966000004, 814456.4483000003 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 2227492,
+				"Angle" : 4.00234406122535,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Pipeline",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 830233.5159999998, 828370.4980999995 ]
+			},
+			"properties" : {
+				"CLASS" : "BGD",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CEM",
+				"ANNOSYMID" : 2227590,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "墳場",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 830719.6380000003, 843461.9361000005 ]
+			},
+			"properties" : {
+				"CLASS" : "BGD",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CEM",
+				"ANNOSYMID" : 2232175,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "墳場",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835912.5429999996, 821834.2281999998 ]
+			},
+			"properties" : {
+				"CLASS" : "SCH",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "UGCFIT",
+				"TYPE" : "TEI",
+				"ANNOSYMID" : 2232393,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 90,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "City University\nof Hong Kong",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839499.6639999999, 831222.1373999994 ]
+			},
+			"properties" : {
+				"CLASS" : "SCH",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "UGCFIT",
+				"TYPE" : "TEI",
+				"ANNOSYMID" : 2227506,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.19999999925494,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "香港中文大學",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845644.7855000002, 822146.4034000002 ]
+			},
+			"properties" : {
+				"CLASS" : "SCH",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "UGCFIT",
+				"TYPE" : "TEI",
+				"ANNOSYMID" : 2227501,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.19999999925494,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "香港科技大學",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 808511.2242999999, 812825.1421000008 ]
+			},
+			"properties" : {
+				"CLASS" : "CUF",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "SCU",
+				"ANNOSYMID" : 2227504,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "天壇大佛",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 808557.6659000004, 812654.5273000002 ]
+			},
+			"properties" : {
+				"CLASS" : "CUF",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "SCU",
+				"ANNOSYMID" : 2231457,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Tian Tan\nBuddha Statue",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820476.0209999997, 806828.7937000003 ]
+			},
+			"properties" : {
+				"CLASS" : "BGD",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CEM",
+				"ANNOSYMID" : 2227442,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Cemetery",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 822421.7510000002, 819098.0997000001 ]
+			},
+			"properties" : {
+				"CLASS" : "RSF",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "AMK",
+				"ANNOSYMID" : 2229137,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 11,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Hong  Kong  Disneyland",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828548.1838999996, 814612.2183999997 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 2227491,
+				"Angle" : 4.00234395104376,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "導管",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828160.0425000004, 825202.4575999994 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 2231435,
+				"Angle" : -61.6538419492082,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Pipeline",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829813.3011999996, 824326.0797000006 ]
+			},
+			"properties" : {
+				"CLASS" : "BGD",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CEM",
+				"ANNOSYMID" : 2229246,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Cemetery",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831272.9079999998, 814807.9716999996 ]
+			},
+			"properties" : {
+				"CLASS" : "BGD",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CEM",
+				"ANNOSYMID" : 2229248,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Cemetery",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832311.3969999999, 816008.2554000001 ]
+			},
+			"properties" : {
+				"CLASS" : "SCH",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "UGCFIT",
+				"TYPE" : "TEI",
+				"ANNOSYMID" : 2227464,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.19999999925494,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "香港大學",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832320.4417000003, 815830.8142000008 ]
+			},
+			"properties" : {
+				"CLASS" : "SCH",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "UGCFIT",
+				"TYPE" : "TEI",
+				"ANNOSYMID" : 2231456,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 90,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "The University\nof Hong Kong",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833312.8545000004, 817717.2802000009 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 21117772,
+				"Angle" : 44.424711724676,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Pipeline",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836565.9556, 818476.7953999992 ]
+			},
+			"properties" : {
+				"CLASS" : "SCH",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "UGCFIT",
+				"TYPE" : "TEI",
+				"ANNOSYMID" : 21084778,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.19999999925494,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "香港理工大學",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838209.7197000002, 818062.9625000004 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 2227479,
+				"Angle" : -59.4008168075161,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "導管",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844303.5905999998, 833486.6060000006 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 2227618,
+				"Angle" : -82.4080073369841,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Pipeline",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 816590.4278999995, 830197.3063999992 ]
+			},
+			"properties" : {
+				"CLASS" : "SCH",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "UGCFIT",
+				"TYPE" : "TEI",
+				"ANNOSYMID" : 2232404,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.19999999925494,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "嶺南大學",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 822653.5306000002, 813368.1668999996 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 21192887,
+				"Angle" : 31.8511161202871,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "導管",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 825939.426, 838398.8040999994 ]
+			},
+			"properties" : {
+				"CLASS" : "BGD",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CEM",
+				"ANNOSYMID" : 2229199,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "墳場",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 825939.1229999997, 838279.9846999999 ]
+			},
+			"properties" : {
+				"CLASS" : "BGD",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CEM",
+				"ANNOSYMID" : 2229200,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Cemetery",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828483.6024000002, 821203.7832999993 ]
+			},
+			"properties" : {
+				"CLASS" : "GAS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "TNK",
+				"ANNOSYMID" : 21084764,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "油庫",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 830059.5174000002, 812291.0769999996 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 2227483,
+				"Angle" : 79.5947039251468,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "導管",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832304.466, 837424.5997000001 ]
+			},
+			"properties" : {
+				"CLASS" : "BGD",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CEM",
+				"ANNOSYMID" : 2232358,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Cemetery",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833252.2699999996, 822575.0266999993 ]
+			},
+			"properties" : {
+				"CLASS" : "BGD",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CEM",
+				"ANNOSYMID" : 2229901,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Cemetery",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833607.409, 812418.5670999996 ]
+			},
+			"properties" : {
+				"CLASS" : "BGD",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CEM",
+				"ANNOSYMID" : 2229251,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "墳場",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835541.7230000002, 810777.0730000008 ]
+			},
+			"properties" : {
+				"CLASS" : "RSF",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "AMK",
+				"ANNOSYMID" : 2227455,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "海洋公園",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836204.3360000001, 811925.5000999998 ]
+			},
+			"properties" : {
+				"CLASS" : "RSF",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "AMK",
+				"ANNOSYMID" : 2227453,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "海洋公園",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838468.0190000003, 816217.1351999994 ]
+			},
+			"properties" : {
+				"CLASS" : "SCH",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "TEI",
+				"ANNOSYMID" : 2232556,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 90,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "HK Shue Yan\nUniversity",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 843899.5149999997, 810780.4751999993 ]
+			},
+			"properties" : {
+				"CLASS" : "RSF",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "GCO",
+				"ANNOSYMID" : 2232431,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "高爾夫\n球場",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844247.5937000001, 833882.0675000008 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 2228913,
+				"Angle" : -82.3050224980587,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "導管",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845795.7372000003, 821956.3671000004 ]
+			},
+			"properties" : {
+				"CLASS" : "SCH",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "UGCFIT",
+				"TYPE" : "TEI",
+				"ANNOSYMID" : 2227502,
+				"Angle" : 0.0114591362837894,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 90,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "The  Hong  Kong  University\nof  Science  and  Technology",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 849356.5653999997, 827018.6010999996 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 21192895,
+				"Angle" : 81.1876250867809,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "導管",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 850193.5938999997, 825560.6900999993 ]
+			},
+			"properties" : {
+				"CLASS" : "RSF",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "GCO",
+				"ANNOSYMID" : 2232455,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Golf  Course",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 819032.2211999996, 813893.5790999997 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 21192893,
+				"Angle" : 4.00234406122535,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "導管",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818725.8415000001, 816073.8568999991 ]
+			},
+			"properties" : {
+				"CLASS" : "RSF",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "GCO",
+				"ANNOSYMID" : 2232449,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Golf  Course",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820477.0350000001, 806944.5990999993 ]
+			},
+			"properties" : {
+				"CLASS" : "BGD",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CEM",
+				"ANNOSYMID" : 2227441,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "墳場",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 822722.8775000004, 813273.9426000006 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 21192886,
+				"Angle" : 32.7589758412572,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Pipeline",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829058.0462999996, 821114.6461999994 ]
+			},
+			"properties" : {
+				"CLASS" : "GAS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "TNK",
+				"ANNOSYMID" : 2230248,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "油庫",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 830473.6608999996, 832064.2863999996 ]
+			},
+			"properties" : {
+				"CLASS" : "RSF",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "ZOO",
+				"ANNOSYMID" : 2232859,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Kadoorie  Farm",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829876.3415999999, 839338.8144000005 ]
+			},
+			"properties" : {
+				"CLASS" : "RSF",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "GCO",
+				"ANNOSYMID" : 2232452,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "高爾夫球場",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 830729.5099999998, 843336.2577 ]
+			},
+			"properties" : {
+				"CLASS" : "BGD",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CEM",
+				"ANNOSYMID" : 2232176,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Cemetery",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837716.6710000001, 814647.3153000008 ]
+			},
+			"properties" : {
+				"CLASS" : "RSF",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "STD",
+				"ANNOSYMID" : 2232559,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 11,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Hong Kong\nStadium",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837710.0590000004, 814792.5956999995 ]
+			},
+			"properties" : {
+				"CLASS" : "RSF",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "STD",
+				"ANNOSYMID" : 2232498,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 22,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.86999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "香港大球場",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839355.7120000003, 823172.1337000001 ]
+			},
+			"properties" : {
+				"CLASS" : "BGD",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CEM",
+				"ANNOSYMID" : 2229244,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Cemetery",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839388.4708000002, 828896.5392000005 ]
+			},
+			"properties" : {
+				"CLASS" : "RSF",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RCO",
+				"ANNOSYMID" : 2227507,
+				"Angle" : 49.692651610536,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Racecourse",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839511.3537999997, 831040.4048999995 ]
+			},
+			"properties" : {
+				"CLASS" : "SCH",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "UGCFIT",
+				"TYPE" : "TEI",
+				"ANNOSYMID" : 2227469,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 90,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "The  Chinese  University\nof  Hong  Kong",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842794.0010000002, 813570.4681000002 ]
+			},
+			"properties" : {
+				"CLASS" : "BGD",
+				"LASTUPDATEDATE" : 20240520,
+				"SUBCAT" : "",
+				"TYPE" : "CEM",
+				"ANNOSYMID" : 2229249,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "墳場",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 848778.3880000003, 814823.2158000004 ]
+			},
+			"properties" : {
+				"CLASS" : "RSF",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "GCO",
+				"ANNOSYMID" : 2232457,
+				"Angle" : 0.0114591362837894,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Golf  Course",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 850193.5938999997, 825683.8684999999 ]
+			},
+			"properties" : {
+				"CLASS" : "RSF",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "GCO",
+				"ANNOSYMID" : 2232454,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "高爾夫球場",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 816532.6238000002, 830027.2041999996 ]
+			},
+			"properties" : {
+				"CLASS" : "SCH",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "UGCFIT",
+				"TYPE" : "TEI",
+				"ANNOSYMID" : 2232405,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 90,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Lingnan\nUniversity",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 824126.3943999996, 824696.2051999997 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 2231436,
+				"Angle" : -68.6720633997906,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Pipeline",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 826471.6174999997, 831419.6045999993 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 2227490,
+				"Angle" : 69.1019425132411,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "導管",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 827526.5870000003, 822446.3791000005 ]
+			},
+			"properties" : {
+				"CLASS" : "GAS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "TNK",
+				"ANNOSYMID" : 2231438,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "油庫",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828260.0110999998, 825263.9312999994 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 2227497,
+				"Angle" : -62.340731454684,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "導管",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829052.1179999998, 821010.5406999998 ]
+			},
+			"properties" : {
+				"CLASS" : "GAS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "TNK",
+				"ANNOSYMID" : 2230249,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Oil  Depot",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829467.2947000004, 837535.0133999996 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 2227488,
+				"Angle" : 72.4583283090194,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "導管",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 830883.2862999998, 811896.6559999995 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 2227485,
+				"Angle" : 50.2303809570312,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Pipeline",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831263.0369999995, 814933.9200999998 ]
+			},
+			"properties" : {
+				"CLASS" : "BGD",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CEM",
+				"ANNOSYMID" : 2229247,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "墳場",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832304.7699999996, 837543.3480999991 ]
+			},
+			"properties" : {
+				"CLASS" : "BGD",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CEM",
+				"ANNOSYMID" : 2232177,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "墳場",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835973.1034000004, 816785.9594999999 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 2227482,
+				"Angle" : 82.5075804842879,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Pipeline",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836584.1200000001, 819480.4293000009 ]
+			},
+			"properties" : {
+				"CLASS" : "SCH",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "TEI",
+				"ANNOSYMID" : 2232823,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 90,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.97000000067055,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Hong Kong Metropolitan\nUniversity",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837415.2750000004, 811994.4916999992 ]
+			},
+			"properties" : {
+				"CLASS" : "RSF",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "GCO",
+				"ANNOSYMID" : 2232430,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Golf  Course",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836871.3711999999, 814914.1521000005 ]
+			},
+			"properties" : {
+				"CLASS" : "RSF",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RCO",
+				"ANNOSYMID" : 2227505,
+				"Angle" : -50.5267596115835,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "馬場",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838110.0029999996, 836771.8684 ]
+			},
+			"properties" : {
+				"CLASS" : "SCH",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "UGCFIT",
+				"TYPE" : "TEI",
+				"ANNOSYMID" : 2232403,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.19999999925494,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "香港教育大學",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839305.8492999999, 828973.2366000004 ]
+			},
+			"properties" : {
+				"CLASS" : "RSF",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RCO",
+				"ANNOSYMID" : 2227465,
+				"Angle" : 48.178032175756,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "馬場",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841115.2510000002, 817153.8164000008 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 21117776,
+				"Angle" : 38.0594013152748,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Pipeline",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 849490.2995999996, 826995.0541999992 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 21192894,
+				"Angle" : 81.6389492234212,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Pipeline",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 804348.9400000004, 813241.1607000008 ]
+			},
+			"properties" : {
+				"CLASS" : "BGD",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CEM",
+				"ANNOSYMID" : 2232803,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Cemetery",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820029.9084999999, 809404.6316 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 2227496,
+				"Angle" : -46.2600688972438,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Pipeline",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 819252.6338, 822247.1017000005 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 21117773,
+				"Angle" : 79.4711668644309,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "導管",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 819311.0077999998, 822564.6427999996 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 21117774,
+				"Angle" : 80.6761550154353,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Pipeline",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 822414.1440000003, 819235.1227000002 ]
+			},
+			"properties" : {
+				"CLASS" : "RSF",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "AMK",
+				"ANNOSYMID" : 2229136,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 22,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.86999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "香港迪士尼樂園",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 822944.9256999996, 815090.3442000002 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 21192885,
+				"Angle" : -69.3339706495934,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000447035,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "導管",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 827133.7929999996, 822923.6342999991 ]
+			},
+			"properties" : {
+				"CLASS" : "GAS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "TNK",
+				"ANNOSYMID" : 21084768,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "油庫",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 826589.0426000003, 831364.8476999998 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 2227489,
+				"Angle" : 69.1019425132411,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Pipeline",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829884.6694, 824415.3771000002 ]
+			},
+			"properties" : {
+				"CLASS" : "BGD",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CEM",
+				"ANNOSYMID" : 2229245,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "墳場",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 830233.2000000002, 828250.9706999995 ]
+			},
+			"properties" : {
+				"CLASS" : "BGD",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CEM",
+				"ANNOSYMID" : 2227591,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Cemetery",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833256.2319999998, 822681.7730999999 ]
+			},
+			"properties" : {
+				"CLASS" : "BGD",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CEM",
+				"ANNOSYMID" : 2229900,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "墳場",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836206.8499999996, 811778.8326999992 ]
+			},
+			"properties" : {
+				"CLASS" : "RSF",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "AMK",
+				"ANNOSYMID" : 2227454,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Ocean  Park",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835931.1578000002, 816489.0659999996 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 2227481,
+				"Angle" : 82.2345759298969,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "導管",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836587.2155999998, 818299.2241999991 ]
+			},
+			"properties" : {
+				"CLASS" : "SCH",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "UGCFIT",
+				"TYPE" : "TEI",
+				"ANNOSYMID" : 21084777,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 90,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "The Hong Kong\nPolytechnic University",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836574.9050000003, 819641.0146999992 ]
+			},
+			"properties" : {
+				"CLASS" : "SCH",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "TEI",
+				"ANNOSYMID" : 2232822,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 35,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.86999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "香港都會大學",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837415.2750000004, 812119.4141000006 ]
+			},
+			"properties" : {
+				"CLASS" : "RSF",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "GCO",
+				"ANNOSYMID" : 2232562,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "高爾夫球場",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836814.3404000001, 814838.3205999993 ]
+			},
+			"properties" : {
+				"CLASS" : "RSF",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RCO",
+				"ANNOSYMID" : 2227508,
+				"Angle" : -50.5267596115835,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.25999999977648,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Racecourse",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 843876.8459999999, 810575.2072999999 ]
+			},
+			"properties" : {
+				"CLASS" : "RSF",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "GCO",
+				"ANNOSYMID" : 2232432,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Golf\nCourse",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 847765.4649, 841251.1912999991 ]
+			},
+			"properties" : {
+				"CLASS" : "DRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PIP",
+				"ANNOSYMID" : 2229707,
+				"Angle" : -74.0191863130391,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Pipeline",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		}
+	]
+}

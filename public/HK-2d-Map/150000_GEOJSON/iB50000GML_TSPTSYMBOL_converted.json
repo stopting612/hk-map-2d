@@ -1,0 +1,6822 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "TSPTSYMBOL",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:2326"
+		}
+	},
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 804094.6272, 815179.0574999992 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21095006
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 806625.0279999999, 813393.5079999994 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639664
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 807258.1758000003, 818601.9559000004 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639662
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 808038.8431000002, 802045.6715999991 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639544
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 809162.7253, 831384.8922000006 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21094980
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 810041.5369999995, 818879.1870000008 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643947
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 810019, 832222 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2643969
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 811695.0554999998, 817966.9159999993 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21122686
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 812037.4720000001, 812383.9279999994 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2644231
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 811783.9000000004, 817291.5210999995 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21147308
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 812460, 820067 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2643971
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 812760.4473000001, 824893.4225999992 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21148736
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 813808.017, 817486.3640000001 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643631
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 813938.8192999996, 819716.1915000007 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21148737
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 814077.5795999998, 825720.2693000007 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639469
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 813543.7400000002, 837365.6199999992 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639327
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 814237.8229999999, 801834.5669999998 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20240520,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21204528
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817384.5900999997, 819444.5724999998 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21095002
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820502.2921000002, 816969.8590999991 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639493
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821126.6895000003, 817943.6975999996 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21083985
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821543.9885, 829782.7000999991 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2643942
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 824947.2181000002, 824084.4045000002 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639565
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 826252.1491, 816448.3380999994 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639558
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 826482.2858999996, 824607.5081999991 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639645
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 827806.9359999998, 822857.1610000003 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643611
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828449.7580000004, 824456.2060000002 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPRAIL",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643701
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829655, 820937 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2643951
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829845.9469999997, 823872.5179999992 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639474
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 830599, 820441.8000000007 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2644034
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 830252.2999999998, 820729.9000000004 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2644036
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 830681.2885999996, 840068.1308999993 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 21183096
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 830826.6588000003, 842351.8603000008 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 21081901
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832092.4029999999, 821690.1659999993 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643625
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832958.2264, 811886.9176000003 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639613
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833844.8250000002, 817629.6370000001 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643620
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834528.0807999996, 807782.1521000005 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639619
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834813.6571000004, 811021.0744000003 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639616
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834798.0499999998, 824310.8100000005 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643920
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835480.7410000004, 818883.3059999999 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643619
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834965.1940000001, 826025.1309999991 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639591
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836436.0199999996, 819045.2609999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPRAIL",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643700
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835869.5010000002, 824177.4460000005 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643636
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836037.2599999998, 825836.6720000003 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643916
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836711.4539999999, 815451.7019999996 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643621
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837121.915, 822825.5710000005 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2644215
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837142.835, 822125.0810000002 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2644276
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837441.0750000002, 816106.2865999993 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21127470
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837726.7400000002, 816684.8599999994 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643603
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839955.3640000001, 826019.7819999997 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2643685
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839954.3420000002, 826226.9560000002 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2643684
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839960.9309999999, 828940.3090000004 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643613
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840323.8940000003, 830256.1669999994 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20240520,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2643954
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839828.5999999996, 834888.5069999993 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20240520,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639478
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841462.8790999996, 816235.5925999992 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639442
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842089.6119999997, 828207.3279999997 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639507
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 843287.5142000001, 814977.6298999991 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639447
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844296.3540000003, 826737.1109999996 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2643683
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 847365.2476000004, 824780.0440999996 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639715
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 847789.1030000001, 811069.557 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20240520,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639720
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 849819.7012999998, 827116.6579 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21094964
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 855353.9825999998, 821004.3381999992 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639710
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 858303.2664999999, 825072.2464000005 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639708
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 862066.0641000001, 844591.8604000006 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639628
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 805855.5049999999, 811546.4629999995 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639419
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 806707, 823551.0099999998 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639636
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 808066.4759999998, 809795.2339999992 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639524
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 810882.8755999999, 831871.0624000002 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21094988
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 811791.9939999999, 813253.7400000002 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2644230
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 811837.9456000002, 818210.3557999991 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21122683
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 812692.7829999998, 816810.1400000006 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPRAIL",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643696
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 813646.4900000002, 837256.5800000001 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639744
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817065.6731000002, 825378.6552000009 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639449
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820262.5259999996, 807589.0759999994 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20240520,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639547
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820371.3309000004, 808116.7990000006 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639550
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820365.5659999996, 825585.1640000008 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639498
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821297.2855000002, 811384.3695999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2641214
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821160.6704000002, 812242.6932999995 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20240520,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21206289
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820943.6678999998, 816943.5877 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639556
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821113.7559000002, 824048.9166999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639648
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 823261.6601, 814128.8138999995 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2644037
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 823679.2006999999, 822749.1487000007 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639496
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 825302.4057999998, 836609.2182999998 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 21081861
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 825443.1490000002, 830529.852 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPRAIL",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2644026
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 826396.8808000004, 840529.9221999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20240520,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPRAIL",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2639315
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829929.5999999996, 821045.5999999996 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2644035
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829738.2276999997, 823282.5069999993 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639475
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829633.1579999998, 827925.1799999997 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2644008
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 830564.267, 811132.2829999998 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639491
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832581.6196999997, 827309.9892999995 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639500
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833493.1270000003, 823253.2190000005 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639517
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834048.0301999999, 838350.9264000002 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21132453
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834404.2889999999, 812765.4910000004 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2643966
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834851.7840999998, 818182.8388 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21104141
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835142.6239999998, 818206.7967000008 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21104140
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835413.4759999998, 832872.3049999997 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2643682
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837121, 808384 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639621
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836689.7346999999, 816149.8339000009 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639605
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836716.9900000002, 823026.0380000006 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643635
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836847.6551000001, 842063.2602999993 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21132454
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837774.9289999995, 833088.773 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPRAIL",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643707
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838772.3825000003, 819980.1158000007 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21183394
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838632.9592000004, 821545.9513000008 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21099359
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840430.7249999996, 817067.943 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643604
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840006.9450000003, 826312.1199999992 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2642039
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840886.4919999996, 816161.5979999993 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643598
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840586.2439999999, 818649.3342000004 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639444
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841177.2456999999, 844873.6819000002 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2644164
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841546.7939999998, 813248.9849999994 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639522
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842770.4944000002, 813328.3602000009 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 21081852
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842484.6083000004, 816809.9400999993 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639725
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842385.3700000001, 818238.8085999992 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21180381
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 843338.1160000004, 832006.8000000007 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2639693
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 843699.0728000002, 834336.2028999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2643709
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 846380.4787999997, 826521.5946999993 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639456
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 846348.1749999998, 836557.977 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20240520,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639477
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 849493.8990000002, 826762.0328000002 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639714
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 852157.9299999997, 824942.9323999994 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639712
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 854112.9612999996, 814650.3776999991 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639717
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 856603.5710000005, 825120.5219999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2644211
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 805490.2005000003, 826844.1515999995 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639463
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 808055.4669000003, 830174.2990000006 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21094977
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 808760.2105, 817270.3997000009 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20240520,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21204538
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 810585.0820000004, 818276.8100000005 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643948
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 810455.3674999997, 831716.7379999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21094987
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 812336.6449999996, 811092.7719999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2644234
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 812546.4440000001, 811155.5219999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2644233
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 812569.8360000001, 816791.7410000004 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPRAIL",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643695
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 813796.6319000004, 818991.6295999996 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20240520,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21204540
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 814058.0930000003, 820497.2561000008 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21186622
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 814183.5325999996, 837408.4002 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2643678
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 816327.0609999998, 832552.5010000002 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2644080
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 816723.3913000003, 807059.7284999993 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2643977
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 816598, 825017 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2643970
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 819017.0020000003, 818831.6280000005 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2642036
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820152.8469000002, 807890.0077 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639548
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820413.9205999998, 809443.7109999992 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639551
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820122.8695, 813788.4719999991 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639554
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820349.3323999997, 821903.2633999996 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639562
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821662.5240000002, 820931.0820000004 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPRAIL",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643944
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 824612.3106000004, 814729.4089000002 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639557
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 824551.0103000002, 822281.5589000005 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639564
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 825449.8114, 823510.0715999994 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639452
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 825332.3826000001, 824970.0117000006 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639646
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828840.5779999997, 829757.5810000002 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2644032
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829872.1246999996, 823275.0763000008 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639640
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832840.1919999998, 820656.1329999994 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639610
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832949.7708000001, 820590.6302000005 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639611
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834084.5039999997, 818564.6319999993 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639608
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833996.3339999998, 821266.9800000004 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643607
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833589.6069999998, 826359.9140000008 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2642042
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834185.21, 818031.9979999997 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2644022
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834893.7180000003, 818723.4627999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21127576
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835706.0750000002, 815993.4557000007 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21127476
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835614.6799999997, 825291.2449999992 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643918
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835763.7010000004, 812392.8920000009 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643622
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836430.5920000002, 839968.0899999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2644214
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835745.0619999999, 843275.5381000005 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21132456
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836537.3880000003, 812755.9759999998 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643708
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836644.2369999997, 814641.659 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2642041
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838295.5, 819166.9309999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639600
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838765.8024000004, 819222.9088000003 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639598
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838620.1612999998, 821825.8542999998 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21099360
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840461.1720000003, 818477.4959999993 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639597
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841917, 817066 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2643973
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842110, 836618 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2644005
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842646.0060000001, 819458.9199999999 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643597
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 843794.2640000004, 820224.6870000008 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643633
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844425.5637999997, 845757.2676999997 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2643950
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844751.4671, 807819.4231000002 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639626
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844864.8820000002, 817176.4969999995 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20240520,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21204529
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845487.0674999999, 810593.7100000009 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639722
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845434.6332, 815030.4220000003 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639723
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845540.9539999999, 815028.7579999994 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2643975
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 855246.0632999996, 822194.6229999997 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639709
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 804244.0039999997, 815147.3708999995 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21095007
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 806370.1106000002, 809555.7502999995 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639382
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 807466.5488, 817058.6506999992 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2644041
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 809080.5429999996, 831488.3912000004 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21094981
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 810468.3899999997, 810148.0580000002 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 21081903
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 810110.4978, 831730.2442000005 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21094982
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 812692.3639000002, 837000.8739999998 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21147307
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 819374.2089999998, 818875.4519999996 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2644176
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 819529.2856000001, 838376.1506999992 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639464
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820285.1935000001, 807904.6436999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639549
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820010.4309, 809743.1070000008 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639552
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 819966.1736000003, 837930.8949999996 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639654
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820966.1692000004, 837983.3896999992 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639656
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820582.2536000004, 838258.7694000006 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639653
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821821.6114999996, 811712.3900000006 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2644240
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821930.4879999999, 821999.9539999999 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643545
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 823051.2079999996, 828794.1699999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639499
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 824715.4117999999, 824021.8252000008 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639451
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 824861.8888999997, 830193.4679000005 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 21081858
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 825604.7081000004, 829907.0558000002 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 21081859
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 827908.5448000003, 822856.1070000008 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2642046
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828096.3140000002, 839985.8049999997 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2643965
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829048.7439999999, 809919.0260000005 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639462
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829052.3909999998, 822438.7109999992 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2644028
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831682.2336999997, 819915.6513999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 21097129
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832279.176, 826917.9000000004 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643623
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832800.0519000003, 811360.9780999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639615
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833246.2510000002, 823037.4049999993 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643921
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832792.1940000001, 827274.6689999998 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639501
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832528.2869999995, 838937.0869999994 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643626
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833403.6300999997, 804792.5151000004 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639620
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834897.75, 824662.2609999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643919
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835128.5809000004, 817962.2211000007 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639602
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835140.5955999997, 817864.4046999998 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639666
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835122.7070000004, 826808.5240000002 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2642037
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836266.5379999997, 812670.4869999997 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPRAIL",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21123199
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836279.3890000004, 819426.4519999996 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643617
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838071.1299999999, 833052.193 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPRAIL",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2644023
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838642.398, 825812.1390000004 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639508
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839228.0099999998, 813254.443 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639523
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840087.8214999996, 806280.2411000002 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639622
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839894.1359999999, 816701.1339999996 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2644018
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840805.6299999999, 811272.5059999991 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639526
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841127.0559999999, 829858.2829999998 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639506
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841524.6683, 816364.8032000009 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639441
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841646.6332, 816313.1689999998 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639443
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842210.0478999997, 816176.8016999997 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639484
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 843202.4133000001, 805480.3443 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639623
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 843219.8329999996, 814872.7320000008 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639448
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 843274.7290000003, 831925.7379999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2644128
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 843480.29, 831990.5490000006 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2644129
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844521.5418999996, 813643.8858000003 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639446
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844391.6312999995, 818157.8341000006 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21180388
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845348.5762999998, 824127.2313999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639716
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 846755.591, 829511.7379999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639512
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 846974.3798000002, 811550.6686000004 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639721
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 848100.7333000004, 846154.6285999995 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639629
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 848558.7813999997, 813319.8856000006 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639719
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 848922.0270999996, 825041.4539000001 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21094960
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 849634.5722000003, 826850.7311000004 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639713
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 850996.5920000002, 828684.0899999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639511
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 852030.2281999998, 820526.2977000009 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639711
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 800524.96, 810580.2230999991 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639634
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 802950.1169999996, 812531.1809999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20240520,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2644208
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 807202.1239999998, 811277.4969999995 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2643967
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 807391.5455, 818284.2687999997 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639635
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 808399.1081999997, 805485.1610000003 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639543
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 811082.5610999996, 817086.7166000009 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21122687
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 811509.5636, 832119.2049000002 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21094991
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 812228.8909999998, 812104.7359999996 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2644232
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 812949.8026000001, 825906.9396000002 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21149317
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 813971.6519999998, 818891.7159000002 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20240520,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21204542
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 813937.4491999997, 818991.4267999995 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20240520,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21204543
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815279.8597999997, 811580.9727999996 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 21081854
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815322.3195000002, 825903.0982000008 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21164832
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815713.8152000001, 826000.3911000006 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639466
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 816984.0609999998, 825251.4580000006 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639471
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817971.642, 813154.4979999997 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 21159219
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820522.1266999999, 820671.7803000007 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 21081843
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 822037.9011000004, 811505.4842000008 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639633
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 822134.0445999997, 811431.5815999992 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21094971
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 824626.5980000002, 832130.4020000007 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643628
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829469.3859999999, 823254.2660000008 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2642044
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829829.4166999999, 823769.7037000004 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639473
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 830988.3010999998, 813893.5912999995 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2643953
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833935.2230000002, 819492.3396000005 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639607
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833939.0089999996, 834343.4079999998 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643605
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834838.8380000005, 810853.2349999994 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639617
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834461.4400000004, 819824.4846000001 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2644126
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836203.6529999999, 819328.5170000009 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPRAIL",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643699
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836502.2529999996, 822162.6400000006 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643608
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836884.0800000001, 816075.6860000007 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2644019
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836899.2735000001, 816315.9423999991 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639604
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836643.8490000004, 817912.8399999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2644020
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836779.2834000001, 818639.7278000005 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPRAIL",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21157161
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837171.358, 822628.9210000001 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643609
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837982.8190000001, 818486.4177999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21147310
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838106.3551000003, 819457.2049000002 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639601
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837683.0470000003, 820280.3100000005 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643945
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837836.6679999996, 827619.5769999996 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643614
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838916.1736000003, 819841.1151000001 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21183396
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838695.9100000001, 820563.9039999992 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643946
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838762.8049999997, 827080.0739999991 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643615
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839696.0199999996, 819896.0399999991 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2641213
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839666.4850000003, 821298.8100000005 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643602
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840048.0049000001, 820995.1649999991 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPRAIL",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643698
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840044.3039999995, 830866.4879999999 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643600
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840684.1562000001, 818547.8512999993 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639596
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841484.29, 822577.932 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639519
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842417.2510000002, 816561.4499999993 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639724
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842914.3169999998, 819418.6270000003 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639518
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845010.9029999999, 817111.9839999992 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20240520,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21204530
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844589.5431000004, 834155.7912000008 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639445
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 846125.5, 817699.6359999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPRAIL",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643692
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 846093.6210000003, 828805.0189999994 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639513
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 846485.1670000004, 826625.2070000004 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639490
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 846764.8633000003, 826662.1193000004 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21094961
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 847981.5564999999, 836051.5903999992 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2643968
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 849384.0641999999, 814549.7153999992 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639718
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 802153.3211000003, 806403.7111000009 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639542
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 806760.6421999997, 822480.5022999998 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639454
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 809624.6660000002, 831592.6446000002 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21094979
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 811602.0729, 824483.7630000003 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639650
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 811387.4752000002, 831955.1406999994 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21094990
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 813202.9649999999, 817230.0659999996 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPRAIL",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643712
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 813143.5407999996, 825946.6085000001 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21149316
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815725.335, 826111.5549999997 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639467
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817766.7589999996, 831676.9350000005 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643632
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818611.1013000002, 813742.1295999996 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21083988
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 819208.6420999998, 840009.8914999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639651
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820805.3696999997, 812586.3138999995 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639659
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820607.0839999998, 816949.2630000003 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639555
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821284.3210000005, 821539.9470000006 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPRAIL",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643943
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 822027.7626, 811691.9030000009 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639658
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 822333.6809999999, 822293.4849999994 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPRAIL",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643697
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 823316.4220000003, 825717.4260000009 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639731
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 823608.6979999999, 836132.9979999997 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643627
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 823061.7039999999, 839612.3560000006 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639497
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 823837.2356000002, 822857.9406000003 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639492
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 824940.0039999997, 826271.0979999993 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2642045
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 826088.5766000003, 823699.7278000005 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639453
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 826311.3962000003, 824853.3572000004 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639655
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 827937.2889999999, 822563.6339999996 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2644030
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828043.0310000004, 826039.1549999993 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2644206
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829151.7659999998, 825787.591 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643624
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828893.9160000002, 827730.0350000001 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2644213
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829541, 820859 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2643952
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829404.0157000003, 824557.9556000009 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639426
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 830279.5250000004, 830262.3129999992 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2644003
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831082.9979999997, 809379.3159999996 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20240520,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21147309
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831173.7479999997, 820145.2770000007 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2644031
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831870.8660000004, 819412.6119999997 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639495
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832779.8679999998, 820059.4409999996 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639514
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833395.7230000002, 813949.909 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639520
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834010.5750000002, 819651.5710000005 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639606
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833704.2429999998, 822514.7090000007 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643606
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834689.3049999997, 810026.4100000001 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639618
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834683.1149000004, 811423.4155000001 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639632
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834863.3296999997, 816096.1019000001 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643546
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834681.8870000001, 819545.6960000005 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPRAIL",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643691
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835460.2970000003, 823323.6359999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639516
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835627.858, 839924.6140000001 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2644006
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836002.1390000004, 822313.1620000005 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPRAIL",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643706
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836299.0428999998, 842786.3648000006 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21132455
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836605.1518000001, 832461.2118999995 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 21126797
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837872.9583999999, 816912.4132000003 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21127468
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838562, 813302 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2643960
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838298.7396, 818979.2320000008 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639599
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838265.4857999999, 825876.1481999997 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639967
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839898.2189999996, 825855.9470000006 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2644237
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841118.426, 820775.1539999992 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2644277
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841803.0631999997, 822173.2180000003 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 21166266
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844390.3634000001, 817899.6714999992 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21180390
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844611.9086999996, 802050.1619000006 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639624
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 849277.0718999999, 804821.6649999991 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639625
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 855667.9972000001, 838955.1206 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639480
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 803832.1509999996, 815340.1649999991 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21095004
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 803969.4519999996, 815284.5118000004 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21095005
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 805829.6430000002, 811358.3540000003 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639424
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 806526.2989999996, 813500.5199999996 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639627
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 812165.1662999997, 824497.6428999994 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639649
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 812587.2120000003, 810659.0140000004 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2643716
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 813223.8592999997, 824161.9804999996 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21186637
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815377.0541000003, 825759.0673999991 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639468
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 816939.7139999997, 825336.318 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639470
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818410.9589999998, 818988.8460000008 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2642035
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 819594.9689999996, 818876.9179999996 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2644177
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821157.9107999997, 811170.4219000004 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639660
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821273.4392999997, 824078.2910999991 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639657
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821757.3256000001, 818317.7568999995 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639561
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 822833.3169, 807427.9381000008 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639553
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 822788.8613, 830286.3651999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 21081845
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 823624.6961000003, 823291.8291999996 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639563
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 823100.6869999999, 825169.5439999998 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643629
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 823246.9510000004, 825453.5299999993 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2644212
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 823867.3420000002, 824009.5604999997 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2643955
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 826001.0356000001, 815916.9765000008 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639559
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 825769.1953999996, 823603.9772999994 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639455
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 825581.4665999999, 825233.7541000005 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639647
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828113.3799999999, 840471.602 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643544
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828967.5520000001, 821782.6789999995 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2644029
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828669.5, 838447.5470000003 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2644007
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829496.4517000001, 816081.1666999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639612
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829648.9775, 823345.2983999997 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639641
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829403.8941000002, 824282.9667000007 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21094998
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829589.3338000001, 824393.6210999992 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639472
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829382.648, 837668.25 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2643959
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831575.2010000004, 825025.6500000004 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPRAIL",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643704
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832265.7912999997, 811632.3922000006 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639614
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831977.5996000003, 819509.3662 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639494
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832621.1179999998, 816647.8420000002 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643610
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832577.1449999996, 826652.4869999997 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2642043
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833936.7834999999, 818421.9015999995 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639609
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835697.0213000001, 811011.6022999994 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2643686
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835624.2130000005, 813542.1349999998 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639630
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835568.1900000004, 824595.591 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPRAIL",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643705
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835665.1550000003, 824547.25 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPRAIL",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21141909
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837228.0829999996, 819244.3800000008 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643618
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837363.0619999999, 816564.75 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639603
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839125.4960000003, 822538.6280000005 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2642040
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839994.1569999997, 814206.3690000009 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639521
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839902.3949999996, 834785.1739000008 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2643847
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841443.7829999998, 818811.2540000007 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643612
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842575.9680000003, 815205.7829999998 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643599
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 843000.6723999996, 834478.5886000004 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21094999
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844076.2655999996, 817615.6063000001 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21180383
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845655.926, 814808.5449999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2643976
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 846277.1114999996, 813775.9574999996 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2643949
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 848810.7741, 826750.3873999994 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21094962
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 849881.8060999997, 838454.2958000004 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639476
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 851557.1710999999, 824886.9605 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21094969
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 852315.8357999995, 838192.7177000009 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639479
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 858688.0509000001, 834363.6115000006 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639644
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 803294.4740000004, 812074.5850000009 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20240520,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2644238
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 803406.2609999999, 812129.7170000002 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20240520,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2644239
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 803368.057, 812749.9269999992 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20240520,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2644086
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 808322.3245000001, 829706.8730999995 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639663
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 808930.3284, 817319.9309 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20240520,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21204539
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 810600.0290999999, 814300.6028000005 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 21081860
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 811491.2098000003, 818476.3710999992 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21122682
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 811676.2381999996, 824703.2720999997 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639661
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 811100.7659, 831855.9412999991 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21094989
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 812065.5590000004, 815303.1109999996 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639682
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 813887.7807, 819083.7776999995 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20240520,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21204541
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817201.2885999996, 825398.6708000004 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639450
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817885.5970000001, 825931.8190000001 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643630
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817670.5936000003, 830587.5775000006 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20240520,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 21204961
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817560.2723000003, 841170.8564999998 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21147306
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 819928.5729999999, 807052.3639000002 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639545
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820180.0405999999, 807592.8483000007 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639546
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820860.483, 812719.1400000006 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20240520,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639637
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820680.7800000003, 840702.2799999993 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639652
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821376.8159999996, 811904.7469999995 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20240520,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21206290
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 823129.648, 826350.8350000009 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2644009
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 824200.7050000001, 829855.4199999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2642047
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 825062.9418000001, 820304.5606999993 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639560
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828782.2999999998, 810712.8000000007 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639461
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829669.5097000003, 823190.2603999991 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639639
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829798.3498999998, 823372.9191999994 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639638
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829518.8797000004, 824223.8500999995 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 21094997
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832808.1919999998, 816722.3780000005 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2644021
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833149.8200000003, 826570.0969999991 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639502
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833480.6109999996, 826350.0840000007 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2642038
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834422.2369999997, 811762.7320000008 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPRAIL",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21122697
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834385.9655999998, 816387.6368000004 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21127472
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834626.3650000002, 819855.9155999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2644127
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834833.7470000004, 824430.8499999996 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2644046
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835767.8590000002, 825417.3680000007 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643917
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837327.1359999999, 825418.3929999992 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643601
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838186.1569999997, 825830.6390000004 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639509
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839586.9730000002, 823825.0840000007 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2643616
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841101.3640000001, 844943.5329999998 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2644163
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841332.3000999996, 816220.4784999993 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639642
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842096.7060000002, 816126.9284000006 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2643974
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841854.7240000004, 817841.8479999993 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2644017
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842158.1928000003, 818203.9835000001 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 21187751
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 843047.2029999997, 819818.4849999994 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "TPROAD",
+				"TYPE" : "TPO",
+				"ANNOSYMID" : 2643634
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845736, 822284 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2643956
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 851619.9289999995, 832295.9629999995 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "REA",
+				"ANNOSYMID" : 2639510
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 862095.3942999998, 836301.3059999999 ]
+			},
+			"properties" : {
+				"CLASS" : "TRF",
+				"LASTUPDATEDATE" : 20231108,
+				"PHYSICALSTATUS" : 3,
+				"SUBCAT" : "",
+				"TYPE" : "NAU",
+				"ANNOSYMID" : 2639485
+			}
+		}
+	]
+}

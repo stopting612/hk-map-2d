@@ -1,0 +1,5668 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "TSPTANNO",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:2326"
+		}
+	},
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 807942.5026000002, 821010.4307000004 ]
+			},
+			"properties" : {
+				"CLASS" : "MCY",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RUN",
+				"ANNOSYMID" : 21176393,
+				"Angle" : 20.3159729620039,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Runway",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 813832.9858999997, 826202.4186000004 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2232059,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 5,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "LUNG  MUN  RD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817748.4336999999, 832549.5727999993 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230448,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 2,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "CASTLE   PEAK   ROAD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817886.8908000002, 825926.7918999996 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229993,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "9",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821393.8223000001, 824392.9667000007 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230584,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 5.67626375,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "TUEN   MUN   ROAD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 824628.3980999999, 832126.9852000009 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2230002,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "3",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 825418.6791000003, 841331.8213 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2227438,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 3,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "SAN  SHAM  RD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828114.3048, 840468.2111000009 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229980,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "9",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831556.2421000004, 821881.4101999998 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2227320,
+				"Angle" : -72.1158506427523,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 21,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "貨櫃碼頭南路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831379.4055000003, 843680.1685000006 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230449,
+				"Angle" : 49.0512628041348,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 32,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "文錦渡路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833333.9995999997, 836046.0886000004 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 21122694,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : -4.28481801,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "粉嶺公路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833996.7746000001, 820519.7280000001 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2227328,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 10.68300378,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "WEST     KOWLOON    HIGHWAY",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834447.7107999995, 823598.8171999995 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "TUNTSC",
+				"TYPE" : "TUN",
+				"ANNOSYMID" : 2227319,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 2,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Eagle's  Nest  Tunnel",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834262.1118999999, 844583.8252000008 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 21132665,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "香園圍公路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834751.4178999998, 826789.3939999994 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "TUNGOV",
+				"TYPE" : "TUN",
+				"ANNOSYMID" : 2230679,
+				"Angle" : 17.3495812526159,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Shing Mun Tunnel",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835582.3835000005, 820915.0431999993 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230359,
+				"Angle" : 2.29862654916595,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 18,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.85,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "界限街",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837228.1440000003, 819242.0750999991 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229973,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "5",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839638.8810000001, 823577.7730999999 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "TUNGOV",
+				"TYPE" : "TUN",
+				"ANNOSYMID" : 2230360,
+				"Angle" : 76.7906484818333,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "大老山隧道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839200.6100000003, 830636.6424000002 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230609,
+				"Angle" : -43.5048211745978,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.25999999977648,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "TAI  PO  ROAD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 811341.9243999999, 814731.1983000003 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2229627,
+				"Angle" : -79.3451496869032,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 37,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "東涌道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817767.7880999995, 831673.1950000003 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229992,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "9",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 824563.8046000004, 827776.0488000009 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "TUNBOT",
+				"TYPE" : "TUN",
+				"ANNOSYMID" : 2230587,
+				"Angle" : -80.2532216323962,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Tai  Lam  Tunnel",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 825773.6951000001, 823505.2239999995 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "VDT",
+				"ANNOSYMID" : 2232219,
+				"Angle" : 16.4325423187585,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "TSING  MA  BRIDGE",
+				"Underline" : 0,
+				"WordSpacing" : 86
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 826333.0088, 831971.1988999993 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2231500,
+				"Angle" : 39.3228662560916,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "錦上路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 826347.5005999999, 833576.5530999992 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230414,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "KAM  TIN  ROAD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828411.9056000002, 835567.5894000009 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2231498,
+				"Angle" : 44.0600122348491,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "粉錦公路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829151.5580000002, 825784.1557 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229997,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "5",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 830327.7657000003, 820839.2712999992 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "VDT",
+				"ANNOSYMID" : 2232446,
+				"Angle" : -39.8151080097658,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "昂船洲大橋",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 830891.466, 843138.2430000007 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2231151,
+				"Angle" : 45.2917027586447,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "MAN  KAM  TO  ROAD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831173.7920000004, 820141.1988999993 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2232460,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "8",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831812.3521999996, 820619.0336000007 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2232448,
+				"Angle" : 36.3416244517973,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 2,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "TSING  SHA  HIGHWAY",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832092.7312000003, 821686.2752999999 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2230000,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "3",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833195.7302000001, 821159.1524 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230348,
+				"Angle" : -22.705808542287,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 11,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "西九龍公路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836594.0152000003, 816926.7855999991 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "TUNGOV",
+				"TYPE" : "TUN",
+				"ANNOSYMID" : 2230568,
+				"Angle" : -80.9567980161324,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Cross  Harbour  Tunnel",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836329.0921, 822853.4092999995 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2231138,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : -0.76778655,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "LUNG CHEUNG RD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837280.2790999999, 846020.5059999991 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 21078724,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 3,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "LIN  MA  HANG   ROAD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839849.9249999998, 818904.8193999995 ]
+			},
+			"properties" : {
+				"CLASS" : "TRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "FET",
+				"ANNOSYMID" : 2227592,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.19999999925494,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "啟德郵輪碼頭",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839588.0138999997, 823824.3429000005 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229989,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "2",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841444.3587999996, 818809.0131999999 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229975,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "2",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844730.9929, 825868.9046 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230350,
+				"Angle" : 71.264279152439,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "西貢公路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 807359.9841, 820812.7322000004 ]
+			},
+			"properties" : {
+				"CLASS" : "MCY",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RUN",
+				"ANNOSYMID" : 21176392,
+				"Angle" : 19.5528529033437,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "跑道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 810187.9759, 809894.6454000007 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2231504,
+				"Angle" : 4.08275938427849,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "嶼南道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 810025.8207, 815852.9965000004 ]
+			},
+			"properties" : {
+				"CLASS" : "RAI",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CCR",
+				"ANNOSYMID" : 2232654,
+				"Angle" : 44.0398254417637,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Ngong Ping Cable Car",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 814068.2317000004, 826678.0912999995 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2232402,
+				"Angle" : 53.8508884552512,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 6,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "龍門路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 816235.5866, 834185.2426999994 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2232463,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 30,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "港深西部公路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 816111.2774999999, 834038.7082000002 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2232474,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 4,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "KONG  SHAM  WESTERN  HIGHWAY",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 816323.8991999999, 832556.9891999997 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2232561,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 2.83999999985099,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "10",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818351.7800000003, 832372.7152999993 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230445,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 32.21918667,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "元朗公路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 824426.0963000003, 828867.1583999991 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "TUNBOT",
+				"TYPE" : "TUN",
+				"ANNOSYMID" : 2230574,
+				"Angle" : -81.0369049672212,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 29,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "大欖隧道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 826336.3059, 832938.5884000007 ]
+			},
+			"properties" : {
+				"CLASS" : "MCY",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RUN",
+				"ANNOSYMID" : 2232388,
+				"Angle" : -22.2152784445304,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "跑道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 826122.5363999996, 840476.2918999996 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230563,
+				"Angle" : -45.6766105757702,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 11,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "新深路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828777.8300999999, 822041.3369999994 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "TUNTSC",
+				"TYPE" : "TUN",
+				"ANNOSYMID" : 2232444,
+				"Angle" : -37.1071055325201,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 29,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "南灣隧道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 830783.7761000004, 833196.5298999995 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2231152,
+				"Angle" : 46.0048018047119,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "林錦公路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833259.5196000002, 822418.2074999996 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230703,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : -16,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.25999999977648,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "CHING  CHEUNG    RD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834355.3324999996, 823734.6165999994 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "TUNTSC",
+				"TYPE" : "TUN",
+				"ANNOSYMID" : 2232513,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 44,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "尖山隧道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835480.915, 818881.8173999991 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229971,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "5",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835344.5663999999, 825293.8523999993 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2229911,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : -11,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "TAI     PO   ROAD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835762.6244000001, 812386.4425000008 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229978,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "1",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836665.5445999997, 813297.6713999994 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "TUNGOV",
+				"TYPE" : "TUN",
+				"ANNOSYMID" : 2230590,
+				"Angle" : 87.2717813629005,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Aberdeen Tunnel",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836915.7052999996, 820961.9761999995 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2231149,
+				"Angle" : 2.59059487713529,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 2,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "BOUNDARY  ST",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837537.4192000004, 842841.2893000003 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230678,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 3,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "SHA   TAU   KOK   ROAD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837962.0843000002, 822589.6999999993 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230370,
+				"Angle" : 0.1546981794216,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 16,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "龍翔道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838760.8443, 827075.0605999995 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229988,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "1",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839851.3269999996, 818774.1981000006 ]
+			},
+			"properties" : {
+				"CLASS" : "TRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "FET",
+				"ANNOSYMID" : 2227593,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 90,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Kai Tak Cruise Terminal",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839961.9238, 828939.9372000005 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229985,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "2",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840044.6706999997, 830862.5195000004 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229984,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "9",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840886.5996000003, 816159.3356999997 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229969,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "4",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841010.4848999996, 817252.2399000004 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "TUNGOV",
+				"TYPE" : "TUN",
+				"ANNOSYMID" : 2230570,
+				"Angle" : 29.8926934171047,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Eastern  Harbour  Crossing",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842349.2719999999, 811807.5973000005 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2232416,
+				"Angle" : -56.6547581711289,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 15,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "石澳道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 808627.9932000004, 818711.6497000009 ]
+			},
+			"properties" : {
+				"CLASS" : "TRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "AIR",
+				"ANNOSYMID" : 2229950,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 6.38000000081956,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Hong Kong International Airport",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 812265.6847999999, 812338.7926000003 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2227448,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 1,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "TUNG    CHUNG    ROAD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 813737.0312000001, 837006.5750999991 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "VDT",
+				"ANNOSYMID" : 2232381,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 2,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "SHENZHEN  BAY  BRIDGE",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 814074.4859999996, 836979.4487999994 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "VDT",
+				"ANNOSYMID" : 2232378,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 125,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.51999999955297,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "深圳灣公路大橋",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821930.7613000004, 821995.5124999993 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229995,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "8",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 823609.4626000002, 836129.0293000005 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229982,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "9",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 825607.4139999999, 833504.3965000007 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2231499,
+				"Angle" : 5.21517735985498,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "錦田公路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 825706.3838999998, 823701.6962000001 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "VDT",
+				"ANNOSYMID" : 2230354,
+				"Angle" : 16.4325423036642,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "青馬大橋",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828640.3589000003, 821964.2778999992 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "TUNTSC",
+				"TYPE" : "TUN",
+				"ANNOSYMID" : 2232445,
+				"Angle" : -37.6995987297497,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Nam Wan Tunnel",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831992.0160999997, 813506.6143999994 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2231168,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 3.16194646,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "POK   FU   LAM   RD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831555.4736000001, 814909.6592999995 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2231154,
+				"Angle" : -71.7172501056899,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 11,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "薄扶林道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832528.9142000005, 838933.6567000002 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229981,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "9",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833493.1824000003, 817387.7350999992 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "TUNBOT",
+				"TYPE" : "TUN",
+				"ANNOSYMID" : 2230571,
+				"Angle" : 49.2172407875098,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 29,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "西區海底隧道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833845.1836000001, 817626.6186999995 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229968,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "3",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834118.3427999998, 821751.9173000008 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2229912,
+				"Angle" : -38.6383328097989,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "CHEUNG  SHA  WAN  RD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834420.9644999998, 822000.6763000004 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230480,
+				"Angle" : -40.0755346251386,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 2,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "CASTLE PEAK RD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833683.5380999995, 836591.0129000004 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 21122710,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 4.55814588,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "FANLING HIGHWAY",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835661.1957, 819562.6239999998 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230562,
+				"Angle" : -78.9361539090465,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 11,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "彌敦道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835603.4160000002, 840833.3200000003 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "TUNGOV",
+				"TYPE" : "TUN",
+				"ANNOSYMID" : 21132673,
+				"Angle" : 51.0637138509882,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.6100000012666,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Lung Shan Tunnel",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836532.4578999998, 813312.8681000005 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "TUNGOV",
+				"TYPE" : "TUN",
+				"ANNOSYMID" : 2230573,
+				"Angle" : 87.9999895031308,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "香港仔隧道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836710.8201000001, 815445.5952000003 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229977,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "1",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837173.2133999998, 822623.8585000001 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229991,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "7",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839667.7788000004, 821294.5767000001 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229974,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "7",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840430.8816, 817066.2903000005 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229970,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "2",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839834.4742000001, 824469.1978999991 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "TUNGOV",
+				"TYPE" : "TUN",
+				"ANNOSYMID" : 2230648,
+				"Angle" : 76.8851349861805,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Tate's Cairn Tunnel",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840905.9332999997, 810584.4251000006 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230367,
+				"Angle" : 74.543364695875,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 10,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "大潭道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840878.4370999997, 817403.0017000008 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "TUNGOV",
+				"TYPE" : "TUN",
+				"ANNOSYMID" : 2230569,
+				"Angle" : 29.6695511155861,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 29,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "東區海底隧道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842575.7286, 815202.4993999992 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229979,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "4",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842516.7929999996, 818259.8575999998 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230362,
+				"Angle" : -55.0258166311848,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 11,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "鯉魚門道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842363.1212999998, 819386.3189000003 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230361,
+				"Angle" : 24.5582379506098,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 11,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "將軍澳道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845409.3381000003, 826700.0522000007 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2231172,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : -1,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "HIRAM'S    HIGHWAY",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 847283.7966999998, 818996.6083000004 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230364,
+				"Angle" : -68.6465454839425,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 11,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "清水灣道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 851970.8557000002, 830915.0515999999 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2231170,
+				"Angle" : 65.3236997019138,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 8,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "PAK   TAM   ROAD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 811490.0554, 819322.8221000005 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2232580,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 1,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "CHEONG HONG RD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 813731.9811000004, 822284.0659999996 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "TUNGOV",
+				"TYPE" : "TUN",
+				"ANNOSYMID" : 21148752,
+				"Angle" : -82.4784302014711,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "TUEN MUN - CHEK LAP KOK TUNNEL",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 813807.7916000001, 817483.3169 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229996,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "8",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 816624.8219999997, 818644.2031999994 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230352,
+				"Angle" : 32.0928381905551,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "北大嶼山公路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 816766.8435000004, 831588.6605999991 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230478,
+				"Angle" : 49.3881400845246,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "青山公路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821703.2674000002, 824361.8836000003 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230477,
+				"Angle" : 18.9350194513365,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "青山公路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 823101.7161999997, 825164.2523999996 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229994,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "9",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 823315.7539999997, 835510.9228000008 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230476,
+				"Angle" : 77.2909686199839,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "青山公路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 827507.5344000002, 832312.5526999999 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2232426,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 4,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "KAM   SHEUNG   ROAD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828840.2904000003, 822901.977 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "TUNTMC",
+				"TYPE" : "TUN",
+				"ANNOSYMID" : 2230607,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 26,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Cheung   Tsing   Tunnel",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829096.8850999996, 836332.2935000006 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230408,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : -2,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "FAN   KAM  ROAD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832620.1701999996, 816645.7170000002 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229965,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "4",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833686.4655999998, 817312.8134000003 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "TUNBOT",
+				"TYPE" : "TUN",
+				"ANNOSYMID" : 2230572,
+				"Angle" : 48.997868240838,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Western  Harbour  Crossing",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833157.8049999997, 826447.7569999993 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "TUNGOV",
+				"TYPE" : "TUN",
+				"ANNOSYMID" : 2232817,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 44,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "城門隧道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835900.9858999997, 811078.2620000001 ]
+			},
+			"properties" : {
+				"CLASS" : "RAI",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CCR",
+				"ANNOSYMID" : 2232291,
+				"Angle" : 73.7106903170677,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "架空纜車",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838353.5965, 816778.8150999993 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2231313,
+				"Angle" : 12.297634729088,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 19,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "英皇道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839695.875, 819892.8842999991 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2230343,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "5",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841309.6330000004, 815818.5026999991 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230368,
+				"Angle" : -35.5336816269469,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 11,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "東區走廊",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842090.6571000004, 821715.5157999992 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2232877,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 7,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "CLEAR  WATER  BAY ROAD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842805.1618999997, 810571.0869999994 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230673,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : -1.1620879,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "SHEK  O  RD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 843480.9730000002, 822491.6316 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230405,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 48.46030682,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "清水灣道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844940.6335000005, 817045.3768000007 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20240520,
+				"SUBCAT" : "",
+				"TYPE" : "VDT",
+				"ANNOSYMID" : 21192649,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "TSEUNG KWAN O CROSS BAY BRIDGE",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845186.1275000004, 819480.4296000004 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230363,
+				"Angle" : -39.8642562591156,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 11,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "環保大道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844948.5225, 821396.6018000003 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230386,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 2,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "CLEAR    WATER BAY  ROAD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 853038.5751999998, 832787.2831999995 ]
+			},
+			"properties" : {
+				"CLASS" : "TRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "FER",
+				"ANNOSYMID" : 2227500,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 90,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000029802,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Wong Shek\nPier",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 804428.0658999998, 815459.398 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 21110209,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 125,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.51999999955297,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "港珠澳大橋香港連接路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 804652.5922999997, 812477.4728999995 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230356,
+				"Angle" : -44.4449277069305,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "TAI  O  ROAD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 809084.2041999996, 818057.7201000005 ]
+			},
+			"properties" : {
+				"CLASS" : "MCY",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RUN",
+				"ANNOSYMID" : 2230033,
+				"Angle" : 17.6558322726572,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "跑道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 811744.0416000001, 810224.0176999997 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230346,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 2,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "SOUTH    LANTAU    ROAD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 823371.2750000004, 824906.7689999994 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230419,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 2,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "CASTLE   PEAK   ROAD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829261.4060000004, 829005.3710999992 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230416,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 3,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "ROUTE   TWISK",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 830168.7441999996, 820631.8292999994 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "VDT",
+				"ANNOSYMID" : 2232447,
+				"Angle" : -39.8884669891989,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0.18440000712871552,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "STONECUTTERS\nBRIDGE",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832974.7593, 822893.1994000003 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2232514,
+				"Angle" : 45.1944694139344,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "青沙公路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834095.0240000002, 815055.4999000002 ]
+			},
+			"properties" : {
+				"CLASS" : "RAI",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PKT",
+				"ANNOSYMID" : 2229606,
+				"Angle" : 58.5527794500246,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Peak  Tramway",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833705.0650000004, 822509.6235000007 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2230001,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "7",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833848.8068000004, 822662.5967999995 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230358,
+				"Angle" : 24.6198754352729,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 11,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.86999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "呈祥道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833939.1540000001, 834340.5022999998 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229983,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "9",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834862.5195000004, 816094.8772999998 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229967,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "4",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836009.3108000001, 811039.7271999996 ]
+			},
+			"properties" : {
+				"CLASS" : "RAI",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CCR",
+				"ANNOSYMID" : 2232292,
+				"Angle" : 73.8287214740375,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Cable  Car",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836502.1675000004, 822156.8647000007 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229990,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "1",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836347.4957999997, 823725.6954999994 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "TUNGOV",
+				"TYPE" : "TUN",
+				"ANNOSYMID" : 2230566,
+				"Angle" : -53.4945058865802,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 11,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "獅子山隧道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837726.5571999997, 816682.0327000003 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229966,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "4",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838115.5443000002, 835780.4123 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2231505,
+				"Angle" : -19.8465321107873,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "汀角路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841022.3779999996, 819527.4041000009 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2231173,
+				"Angle" : -23.1346434725733,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 11,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "觀塘道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842022.0614999998, 841676.0848999992 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230627,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 3.58770617,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "BRIDE'S   POOL   ROAD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 804374.0619000001, 815203.9595999997 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 21110206,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 2,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 5.32000000216067,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "HONG KONG - ZHUHAI - MACAO  BRIDGE  HONG  KONG  LINK  ROAD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 809601.5969000002, 818220.0524000004 ]
+			},
+			"properties" : {
+				"CLASS" : "MCY",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RUN",
+				"ANNOSYMID" : 2232422,
+				"Angle" : 18.9295998408777,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Runway",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 811315.0240000002, 819879.8915999997 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230611,
+				"Angle" : -71.2823976637253,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 11,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "暢航路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 811754.7111999998, 819790.1910999995 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230612,
+				"Angle" : -71.4327787829009,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 11,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "機場路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818657.6246999996, 820263.3877000008 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230588,
+				"Angle" : 26.5650512009424,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "NORTH   LANTAU   HIGHWAY",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 824477.7515000002, 832202.7862999998 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2232649,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "TSING     LONG     HIGHWAY",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 824633.3979000002, 832530.8344999999 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230355,
+				"Angle" : -68.911478939639,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "青朗公路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 826181.8266000003, 824945.8149999995 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "VDT",
+				"ANNOSYMID" : 2230565,
+				"Angle" : -63.8577409983299,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "TING  KAU  BRIDGE",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 826698.9595999997, 832793.6187999994 ]
+			},
+			"properties" : {
+				"CLASS" : "MCY",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RUN",
+				"ANNOSYMID" : 2232374,
+				"Angle" : -20.9161593759888,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Runway",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828448.8602999998, 840351.9526000004 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230351,
+				"Angle" : -5.04295466025599,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "粉嶺公路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834258.0341999996, 838860.0829000007 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "TUNGOV",
+				"TYPE" : "TUN",
+				"ANNOSYMID" : 21132672,
+				"Angle" : 55.2689702258446,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 29,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "龍山隧道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834833.7910000002, 824426.4160999991 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2232515,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "8",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834716.8068000004, 841337.5770999994 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230674,
+				"Angle" : 23.345284455583,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "沙頭角公路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835159.1865999997, 844147.9637000002 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 21132664,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "HEUNG YUEN WAI HIGHWAY",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835452.6200000001, 846537.5514000002 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2227463,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 3.84983162,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "蓮麻坑路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836697.5915999999, 816938.1259000003 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20240520,
+				"SUBCAT" : "TUNGOV",
+				"TYPE" : "TUN",
+				"ANNOSYMID" : 2230567,
+				"Angle" : -80.9567955241097,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 29,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "海底隧道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837837.4315999998, 827615.7881000005 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229986,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "9",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838368.1918000001, 833255.7083999999 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230401,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 53,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "吐露港公路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840321.9450000003, 809838.7541000005 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230666,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : -7.45401008,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "TAI   TAM   RD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841525.4983000001, 819234.5504999999 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2229902,
+				"Angle" : -32.9225038722006,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 2,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "KWUN  TONG  RD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842647.8289000001, 819453.6283 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229976,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "7",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845060.0746999998, 817217.0488000009 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20240520,
+				"SUBCAT" : "",
+				"TYPE" : "VDT",
+				"ANNOSYMID" : 21192650,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 11,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "將軍澳跨灣大橋",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845816.5771000003, 818432.6363999993 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230382,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : -5.91906826,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "WAN PO ROAD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 853038.5469000004, 832966.6304000001 ]
+			},
+			"properties" : {
+				"CLASS" : "TRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "FER",
+				"ANNOSYMID" : 2227445,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.19999999925494,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "黃石碼頭",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 805056.2916000001, 811968.6513999999 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230357,
+				"Angle" : -64.0755278571264,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "大澳道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 808627.9932000004, 818901.9384000003 ]
+			},
+			"properties" : {
+				"CLASS" : "TRS",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "AIR",
+				"ANNOSYMID" : 2229949,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 7.33999999985099,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "香港國際機場",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 809444.6270000003, 815291.7536999993 ]
+			},
+			"properties" : {
+				"CLASS" : "RAI",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "CCR",
+				"ANNOSYMID" : 2232417,
+				"Angle" : 44.4368249948102,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "昂坪纜車",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 813921.4280000003, 822383.4789000005 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "TUNGOV",
+				"TYPE" : "TUN",
+				"ANNOSYMID" : 21148751,
+				"Angle" : -82.2637381005428,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 29,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "屯門-赤鱲角隧道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820068.1052999999, 832873.5599000007 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230434,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 1.15345003,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "YUEN  LONG  HIGHWAY",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820468.6452000001, 824241.7931999993 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2231503,
+				"Angle" : -15.2953192570266,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "屯門公路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 823524.4846000001, 836294.7546999995 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2231497,
+				"Angle" : 76.7502941878907,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "CASTLE  PEAK  ROAD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 823942.7207000004, 837611.4880999997 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230438,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 6.91539052,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "新田公路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 824665.2697999999, 839095.4500999991 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230441,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 6,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "SAN  TIN  HIGHWAY",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 826374.1392000001, 825026.1355000008 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "VDT",
+				"ANNOSYMID" : 2230564,
+				"Angle" : -63.934608662399,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 11,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "汀九橋",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 827806.9128, 822855.1157000009 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229998,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "3",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828851.6874000002, 823020.7692000009 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "TUNTMC",
+				"TYPE" : "TUN",
+				"ANNOSYMID" : 2227325,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 16,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "長青隧道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829546.0653999997, 830710.4849999994 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20240520,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2231502,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "荃錦公路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829482.9369999999, 840256.9146999996 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230586,
+				"Angle" : -6.70146889414561,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "FANLING   HIGHWAY",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831747.7905999999, 834029.5909000002 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230411,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 9,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "LAM  KAM  ROAD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832279.6749999998, 826912.7789999992 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229999,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "9",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833688.3570999997, 814753.4754000008 ]
+			},
+			"properties" : {
+				"CLASS" : "RAI",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "PKT",
+				"ANNOSYMID" : 2227516,
+				"Angle" : -5.83716055052121,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 34,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.30000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "山頂纜車",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833996.6452000001, 821265.0804999992 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229964,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "5",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834192.3229999999, 821872.6985999998 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230560,
+				"Angle" : -40.0593892130416,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 11,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "長沙灣道",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834666.4329000004, 824686.8894999996 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230680,
+				"Angle" : 54.1626050626921,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "大埔公路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836278.3680999996, 819421.3838999998 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229972,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "1",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836187.2789000003, 823592.0108000003 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "TUNGOV",
+				"TYPE" : "TUN",
+				"ANNOSYMID" : 2230608,
+				"Angle" : -53.2446937577471,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "Lion Rock Tunnel",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837325.5226999996, 825411.4769000001 ]
+			},
+			"properties" : {
+				"CLASS" : "RTN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RNO",
+				"ANNOSYMID" : 2229987,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 108,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 3.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "1",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837437.9573999997, 832662.9759 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230475,
+				"Angle" : -3.31935628950272,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 5.55000000074506,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "大埔公路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838892.2763999999, 835719.1461999994 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230398,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0.1739401,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "TING    KOK    ROAD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839927.8152000001, 816970.7199000008 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230031,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 8.89734847,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "ISLAND    EASTERN     CORRIDOR",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839253.3266000003, 832116.8903999999 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2231506,
+				"Angle" : -34.8962668388752,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "TOLO  HIGHWAY",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842322.4625000004, 840678.409 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230374,
+				"Angle" : 0,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 4.90743798,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "新娘潭路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845374.4929, 831612.5767999999 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2231169,
+				"Angle" : -27.1749121446092,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 33,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "西沙路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845717.8825000003, 830671.9768000003 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230589,
+				"Angle" : -13.9862193343154,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 0,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "Arial",
+				"FontSize" : 4.60999999940395,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "SAI SHA ROAD",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 851565.5094999997, 830176.7379000001 ]
+			},
+			"properties" : {
+				"CLASS" : "RDN",
+				"LASTUPDATEDATE" : 20231108,
+				"SUBCAT" : "",
+				"TYPE" : "RDN",
+				"ANNOSYMID" : 2230365,
+				"Angle" : 56.8947089323072,
+				"AnnotationClassID" : 0,
+				"Bold" : 0,
+				"CharacterSpacing" : 16,
+				"CharacterWidth" : 100,
+				"FlipAngle" : 90,
+				"FontLeading" : 0,
+				"FontName" : "SMO Chiron Sans HK TT Light",
+				"FontSize" : 6.11999999918044,
+				"Italic" : 0,
+				"Status" : 0,
+				"TextString" : "北潭路",
+				"Underline" : 0,
+				"WordSpacing" : 100
+			}
+		}
+	]
+}

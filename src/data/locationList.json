@@ -1,0 +1,18 @@
+
+[
+        {
+          "id": 1,
+          "name": "Victoria Peak",
+          "coordinates": [22.2758, 114.1455]
+        },
+        {
+          "id": 2,
+          "name": "Tsim Sha Tsui",
+          "coordinates": [22.2975, 114.1722]
+        },
+        {
+          "id": 3,
+          "name": "Central",
+          "coordinates": [22.2823, 114.1585]
+        }
+      ]
