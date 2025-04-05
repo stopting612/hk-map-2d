@@ -6,21 +6,16 @@ import locationList from "@/data/locationList.json";
 
 // Fix for missing Leaflet marker icons (required for React-Leaflet)
 import L from "leaflet";
-import icon from "leaflet/dist/images/marker-icon.png";
-import iconShadow from "leaflet/dist/images/marker-shadow.png";
 
-L.Marker.prototype.options.icon = L.icon({
-  iconUrl: icon,
-  shadowUrl: iconShadow,
-  iconSize: [25, 41],
-  iconAnchor: [12, 41],
+//custom icon
+const customIcon = new L.Icon({
+  iconUrl: '/maps-and-flags.png', 
+  iconSize: [40, 41],      
+  iconAnchor: [12, 41],     
+  popupAnchor: [1, -34]    
 });
+L.Marker.prototype.options.icon = customIcon;
 
-const userIcon = new L.Icon({
-  iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png',
-  iconSize: [25, 41],
-  iconAnchor: [12, 41]
-});
 
 
 function FlyToLocation({ location }) {
@@ -74,7 +69,7 @@ function LocationFinder() {
   }, [map]);
 
   return position ? (
-    <Marker position={position} icon={userIcon}>
+    <Marker position={position} icon={customIcon}>
       <Popup>You are here</Popup>
     </Marker>
   ) : null;
