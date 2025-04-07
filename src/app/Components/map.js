@@ -1,5 +1,5 @@
 "use client";
-import React, { useEffect, useMemo, useCallback, useState } from "react";
+import React, { useEffect, useMemo, useCallback, useState, useRef } from "react";
 import {
   MapContainer,
   TileLayer,
@@ -7,13 +7,13 @@ import {
   useMap,
   Marker,
   Popup,
+  Polyline
 } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import locationList from "@/data/locationList.json";
-import { MaptilerLayer } from "@maptiler/leaflet-maptilersdk";
+import L from 'leaflet';
+import 'leaflet/dist/leaflet.css';
 
-// Fix for missing Leaflet marker icons (required for React-Leaflet)
-import L from "leaflet";
 
 //custom icon
 const locationMarker = new L.Icon({
@@ -56,39 +56,38 @@ function CustomAttribution() {
   return null;
 }
 
-// function LocationFinder() {
-//   const map = useMap();
-//   const [position, setPosition] = useState(null);
-
-//   useEffect(() => {
-//     // Get user location when component mounts
-//     map.locate({
-//       setView: true,    // Center map on location
-//       maxZoom: 16,      // Appropriate zoom level
-//       timeout: 10000    // 10 second timeout
-//     })
-//     .on('locationfound', (e) => {
-//       setPosition(e.latlng);
-//       map.flyTo(e.latlng, 16); // Smooth zoom to location
-//     })
-//     .on('locationerror', (err) => {
-//       console.error("Location access denied:", err.message);
-//       // Default to Hong Kong coordinates if denied
-//       const hkCoords = L.latLng(22.3193, 114.1694);
-//       setPosition(hkCoords);
-//       map.flyTo(hkCoords, 13);
-//     });
-
-//   }, [map]);
-
-//   return position ? (
-//     <Marker position={position} icon={customIcon}>
-//       <Popup>You are here</Popup>
-//     </Marker>
-//   ) : null;
-// }
+ 
 
 function HKMap({ selectedLocation }) {
+
+  const [path, setPath] = useState([
+    [22.2819, 114.1582], // Start: Central
+  ]);
+
+  const fullPath = [
+    [22.2819, 114.1582], // Central
+    [22.2960, 114.1722], // Tsim Sha Tsui
+    [22.3193, 114.1700], // Mong Kok
+    [22.3840, 114.1910], // Sha Tin
+    [22.4432, 114.1694], // Tai Po
+  ];
+
+  const indexRef = useRef(1); // Start from second point
+  const intervalRef = useRef(null);
+
+  useEffect(() => {
+    intervalRef.current = setInterval(() => {
+      const nextPoint = fullPath[indexRef.current];
+      if (nextPoint) {
+        setPath((prevPath) => [...prevPath, nextPoint]);
+        indexRef.current += 1;
+      } else {
+        clearInterval(intervalRef.current); // Stop when no more points
+      }
+    }, 1000);
+
+    return () => clearInterval(intervalRef.current); // Cleanup
+  }, []);
   console.log("Selected Location:", selectedLocation);
   const [rawGeoData, setRawGeoData] = useState(null);
   const [activePopup, setActivePopup] = useState(false);
@@ -99,6 +98,8 @@ function HKMap({ selectedLocation }) {
       .then((data) => setRawGeoData(data))
       .catch((error) => console.error("Error fetching GeoJSON:", error));
   });
+  
+  
 
   // Style for GeoJSON features
   const geoJsonStyle = useMemo(
@@ -109,6 +110,8 @@ function HKMap({ selectedLocation }) {
     }),
     []
   );
+
+  
 
   //This code is for tune the performance
   const optimizedGeoJSON = useMemo(() => {
@@ -149,6 +152,10 @@ function HKMap({ selectedLocation }) {
           attribution='Test'
           url="https://mapapi.geodata.gov.hk/gs/api/v1.0.0/xyz/basemap/wgs84/{z}/{x}/{y}.png"
         />
+          
+       
+          <Polyline positions={path} color="red" weight={5} />
+
 
         <CustomAttribution />
 

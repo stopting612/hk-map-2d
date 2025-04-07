@@ -10,13 +10,11 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@maptiler/leaflet-maptilersdk": "^4.0.3",
     "leaflet": "^1.9.4",
-    "leaflet.polyline.snakeanim": "^0.2.0",
     "next": "15.2.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-leaflet": "^5.0.0-rc.2"
+    "react-leaflet": "^5.0.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
