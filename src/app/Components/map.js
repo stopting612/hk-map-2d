@@ -235,7 +235,7 @@ function HKMap({ selectedLocation }) {
           <div className="bg-black p-6 rounded-lg shadow-xl max-w-md w-full border border-gray-200">
             <h2 className="text-xl font-bold mb-3">Confirmation</h2>
             <p className="mb-4">
-              Click anywhere on the map to close this popup.
+              Hi I am a popup! This is a simple confirmation message. You can
             </p>
             <div className="flex space-x-3">
               {/* <button
@@ -245,7 +245,7 @@ function HKMap({ selectedLocation }) {
                 Action
               </button> */}
               <button
-                className="flex-1 bg-gray-200 hover:bg-gray-300 py-2 px-4 rounded"
+                className="flex-1 bg-gray-200 hover:bg-gray-300 py-2 px-4 rounded text-black"
                 onClick={() => setActivePopup(false)}
               >
                 Close
