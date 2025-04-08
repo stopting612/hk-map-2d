@@ -1,5 +1,11 @@
 "use client";
-import React, { useEffect, useMemo, useCallback, useState, useRef } from "react";
+import React, {
+  useEffect,
+  useMemo,
+  useCallback,
+  useState,
+  useRef,
+} from "react";
 import {
   MapContainer,
   TileLayer,
@@ -7,13 +13,12 @@ import {
   useMap,
   Marker,
   Popup,
-  Polyline
+  Polyline,
 } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import locationList from "@/data/locationList.json";
-import L from 'leaflet';
-import 'leaflet/dist/leaflet.css';
-
+import L from "leaflet";
+import "leaflet/dist/leaflet.css";
 
 //custom icon
 const locationMarker = new L.Icon({
@@ -56,38 +61,41 @@ function CustomAttribution() {
   return null;
 }
 
- 
-
 function HKMap({ selectedLocation }) {
-
-  const [path, setPath] = useState([
-    [22.2819, 114.1582], // Start: Central
-  ]);
-
   const fullPath = [
-    [22.2819, 114.1582], // Central
-    [22.2960, 114.1722], // Tsim Sha Tsui
-    [22.3193, 114.1700], // Mong Kok
-    [22.3840, 114.1910], // Sha Tin
-    [22.4432, 114.1694], // Tai Po
+    [22.2758, 114.1455],
+    [22.2823, 114.1585],
+    [22.2975, 114.1722],
   ];
+  const [path, setPath] = useState([
+    fullPath[0], // Start: Central
+  ]);
 
   const indexRef = useRef(1); // Start from second point
   const intervalRef = useRef(null);
+  const [carPosition, setCarPosition] = useState(fullPath[0]);
+
+  const carIcon = new L.Icon({
+    iconUrl: "https://cdn-icons-png.flaticon.com/512/744/744465.png",
+    iconSize: [32, 32],
+    iconAnchor: [16, 16],
+  });
 
   useEffect(() => {
     intervalRef.current = setInterval(() => {
-      const nextPoint = fullPath[indexRef.current];
-      if (nextPoint) {
+      if (indexRef.current < fullPath.length) {
+        const nextPoint = fullPath[indexRef.current];
         setPath((prevPath) => [...prevPath, nextPoint]);
+        setCarPosition(nextPoint);
         indexRef.current += 1;
       } else {
-        clearInterval(intervalRef.current); // Stop when no more points
+        clearInterval(intervalRef.current);
       }
-    }, 1000);
+    }, 5000);
 
-    return () => clearInterval(intervalRef.current); // Cleanup
+    return () => clearInterval(intervalRef.current);
   }, []);
+
   console.log("Selected Location:", selectedLocation);
   const [rawGeoData, setRawGeoData] = useState(null);
   const [activePopup, setActivePopup] = useState(false);
@@ -98,8 +106,6 @@ function HKMap({ selectedLocation }) {
       .then((data) => setRawGeoData(data))
       .catch((error) => console.error("Error fetching GeoJSON:", error));
   });
-  
-  
 
   // Style for GeoJSON features
   const geoJsonStyle = useMemo(
@@ -110,8 +116,6 @@ function HKMap({ selectedLocation }) {
     }),
     []
   );
-
-  
 
   //This code is for tune the performance
   const optimizedGeoJSON = useMemo(() => {
@@ -149,13 +153,12 @@ function HKMap({ selectedLocation }) {
         className="w-full h-screen"
       >
         <TileLayer
-          attribution='Test'
+          attribution="Test"
           url="https://mapapi.geodata.gov.hk/gs/api/v1.0.0/xyz/basemap/wgs84/{z}/{x}/{y}.png"
         />
-          
-       
-          <Polyline positions={path} color="red" weight={5} />
 
+        <Polyline positions={path} color="blue" weight={3} />
+        <Marker position={carPosition} icon={carIcon} />
 
         <CustomAttribution />
 
