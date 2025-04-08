@@ -19,8 +19,10 @@ import "leaflet/dist/leaflet.css";
 import locationList from "@/data/locationList.json";
 import L from "leaflet";
 import "leaflet/dist/leaflet.css";
+import DriftMarker from "leaflet-drift-marker";
 
-//custom icon
+
+
 const locationMarker = new L.Icon({
   iconUrl: "/maps-and-flags.png",
   iconSize: [41, 41],
@@ -34,6 +36,14 @@ const buildingIcon = new L.Icon({
   iconSize: [100, 100],
   iconAnchor: [16, 32],
   popupAnchor: [0, -32],
+});
+
+
+const carIcon = new L.Icon({
+  iconUrl: "/car.png",
+  iconSize: [41, 41],
+  iconAnchor: [12, 41],
+  popupAnchor: [1, -34],
 });
 
 function FlyToLocation({ location }) {
@@ -61,40 +71,40 @@ function CustomAttribution() {
   return null;
 }
 
-function HKMap({ selectedLocation }) {
-  const fullPath = [
-    [22.2758, 114.1455],
-    [22.2823, 114.1585],
-    [22.2975, 114.1722],
-  ];
-  const [path, setPath] = useState([
-    fullPath[0], // Start: Central
-  ]);
-
-  const indexRef = useRef(1); // Start from second point
-  const intervalRef = useRef(null);
-  const [carPosition, setCarPosition] = useState(fullPath[0]);
-
-  const carIcon = new L.Icon({
-    iconUrl: "https://cdn-icons-png.flaticon.com/512/744/744465.png",
-    iconSize: [32, 32],
-    iconAnchor: [16, 16],
-  });
+function AnimatedDriftMarker({
+  position,
+  duration = 1000,
+  icon,
+  onMoved,
+}) {
+  const map = useMap();
+  const markerRef = useRef(null);
 
   useEffect(() => {
-    intervalRef.current = setInterval(() => {
-      if (indexRef.current < fullPath.length) {
-        const nextPoint = fullPath[indexRef.current];
-        setPath((prevPath) => [...prevPath, nextPoint]);
-        setCarPosition(nextPoint);
-        indexRef.current += 1;
-      } else {
-        clearInterval(intervalRef.current);
-      }
-    }, 5000);
+    if (!markerRef.current) {
+      const marker = new DriftMarker(position, {
+        icon: icon || new L.Icon.Default(),
+      });
+      marker.addTo(map);
+      markerRef.current = marker;
+    } else {
+      markerRef.current.slideTo(position, {
+        duration,
+        keepAtCenter: false,
+      });
+    }
 
-    return () => clearInterval(intervalRef.current);
-  }, []);
+    if (onMoved) {
+      onMoved(position);
+    }
+  }, [position, duration, icon, map, onMoved]);
+
+  return null;
+}
+
+function HKMap({ selectedLocation }) {
+  const [carPosition, setCarPosition] = useState([22.2758, 114.1455]);
+  const [traveledPath, setTraveledPath] = useState([[22.2758, 114.1455]]);
 
   console.log("Selected Location:", selectedLocation);
   const [rawGeoData, setRawGeoData] = useState(null);
@@ -107,6 +117,28 @@ function HKMap({ selectedLocation }) {
       .catch((error) => console.error("Error fetching GeoJSON:", error));
   });
 
+  useEffect(() => {
+    const path = [
+      [22.2758, 114.1455],
+      [22.2823, 114.1585],
+      [22.2975, 114.1722],
+      [22.3193, 114.1694],
+    ];
+
+    let i = 1;
+    const interval = setInterval(() => {
+      if (i < path.length) {
+        setCarPosition(path[i]);
+        setTraveledPath((prev) => [...prev, path[i]]);
+        i++;
+      } else {
+        clearInterval(interval);
+      }
+    }, 3000);
+
+    return () => clearInterval(interval);
+  }, []);
+
   // Style for GeoJSON features
   const geoJsonStyle = useMemo(
     () => ({
@@ -116,6 +148,8 @@ function HKMap({ selectedLocation }) {
     }),
     []
   );
+
+  //custom icon
 
   //This code is for tune the performance
   const optimizedGeoJSON = useMemo(() => {
@@ -157,10 +191,17 @@ function HKMap({ selectedLocation }) {
           url="https://mapapi.geodata.gov.hk/gs/api/v1.0.0/xyz/basemap/wgs84/{z}/{x}/{y}.png"
         />
 
-        <Polyline positions={path} color="blue" weight={3} />
-        <Marker position={carPosition} icon={carIcon} />
-
         <CustomAttribution />
+
+
+
+        <AnimatedDriftMarker
+          position={carPosition}
+          duration={2000}
+          icon={
+            carIcon
+          }
+        />
 
         {selectedLocation && ( // animation for the selected location
           <FlyToLocation location={selectedLocation} />
